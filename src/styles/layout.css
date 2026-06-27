@@ -2,6 +2,8 @@
 
 .title {
     max-width: 90%;
+    max-height: 150px;
+    width: auto;
     height: auto;
 
     user-select: none;
@@ -21,6 +23,8 @@
 
 .full-body {
     max-width: 50%;
+    max-height: 500px;
+    width: auto;
     height: auto;
 }
 
