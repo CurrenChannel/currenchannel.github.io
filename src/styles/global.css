@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=Potta+One&display=swap');
+
+:root {
+  /* =========================================
+     Base Palette
+     ========================================= */
+  --color-primary-accent: #F86669; /* Coral Red */
+  --color-background-main: #47423E; /* Earthy Charcoal */
+
+  /* =========================================
+     Interactive States
+     ========================================= */
+  --color-accent-hover: #FF9E9F; /* Soft Coral */
+
+  /* =========================================
+     Typography
+     ========================================= */
+  --color-text-primary: #FDFBF7; /* Warm Off-White */
+  --color-text-secondary: #9C9691; /* Muted Stone */
+
+  /* =========================================
+     Layout & Containers
+     ========================================= */
+  --color-background-light: #EFECE8; /* Light Greige (Alternative sections) */
+  --color-background-card: #5C5551; /* Lighter charcoal for UI cards/boxes */
+  --color-nav-solid: #3D3835; /* Darker charcoal for a solid nav bar */
+  --color-footer-bg: #2E2A27;
+
+  /* =========================================
+     Frosted Glass (Glassmorphism)
+     ========================================= */
+  --color-nav-frosted: rgba(71, 66, 62, 0.75); /* Earthy Charcoal at 75% opacity */
+  --glass-blur-radius: 12px; /* Standard blur for backdrop-filter */
+  --glass-border: 1px solid rgba(253, 251, 247, 0.05); /* Subtle edge highlight */
+}
+
+html {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  color: var(--color-text-primary);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: var(--color-background-main);
+    min-height: 100dvh;
+    margin: 0;
+
+    color: var(--color-text-secondary);
+    font-family: "Kosugi Maru", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+main {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Potta One", system-ui;
+    color: var(--color-text-primary);
+}
+
+p {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 4rem 2rem;
+    width: 100%;
+
+    text-align: center;
+
+    border-top: 2px solid var(--color-primary-accent);
+    background-color: var(--color-footer-bg);
+}

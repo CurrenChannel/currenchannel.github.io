@@ -1,19 +1,16 @@
 ---
-
+import { Image } from "astro:assets"
+import MainLayout from "../layouts/MainLayout.astro"
+import CurrenFullBody from "../assets/images/Curren_Chan_fullbody.webp"
+import CurrenTitle from "../assets/images/CurrenChannelTitle.png"
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-		<link rel="manifest" href="/site.webmanifest">
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Curren Channel</title>
-	</head>
-	<body>
-		<h1>Curren Channel</h1>
-	</body>
-</html>
+<MainLayout>
+	<Image src={ CurrenTitle } alt="Curren Title" class={"title"} draggable="false"/>
+	<div class="flexbox-x flexbox-shaded">
+		<p class="center-text shaded">
+			Haai!! Curren Chan desu.💝 This page is still under construction.⚠️ Be patient, kay?💕
+		</p>
+		<Image src={ CurrenFullBody } alt="Curren Full Body pic" height={500} class={"full-body"}/>
+	</div>
+</MainLayout>

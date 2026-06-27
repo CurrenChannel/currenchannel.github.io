@@ -1,0 +1,52 @@
+@import url(./global.css);
+
+.title {
+    max-width: 90%;
+    height: auto;
+
+    user-select: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.title:hover {
+    filter: brightness(1.1);
+    transform: scale(1.05);
+}
+
+.title:active {
+    filter: brightness(0.9);
+    transform: scale(0.95);
+}
+
+.full-body {
+    max-width: 50%;
+    height: auto;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.shaded {
+    background-color: var(--color-background-card);
+}
+
+.flexbox-x {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.flexbox-y {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 10px;
+    border-radius: 10px;
+}
