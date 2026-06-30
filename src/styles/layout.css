@@ -27,13 +27,6 @@
     transform: scale(0.95);
 }
 
-.full-body {
-    max-width: 50%;
-    max-height: 500px;
-    width: auto;
-    height: auto;
-}
-
 .center-text {
     text-align: center;
 }
@@ -75,4 +68,20 @@
 
 .btn-primary:hover {
     background-color: var(--color-accent-hover);
+}
+
+/* Images */
+
+.full-body {
+    max-width: 50%;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+}
+
+.half-body {
+    max-width: 50%;
+    max-height: 400px;
+    width: auto;
+    height: auto;
 }

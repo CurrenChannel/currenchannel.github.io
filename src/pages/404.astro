@@ -1,7 +1,7 @@
 ---
 import { Image } from "astro:assets"
 import MainLayout from "../layouts/MainLayout.astro"
-import CurrenFullBody from "../assets/images/Curren_Chan_fullbody.webp"
+import CurrenSad from "../assets/images/CurrenSad.png"
 ---
 
 <MainLayout title="Curren Channel">
@@ -9,11 +9,11 @@ import CurrenFullBody from "../assets/images/Curren_Chan_fullbody.webp"
         <div class="flexbox-y">
             <h1>404 Page not found</h1>
             <p class="center-text shaded">
-                Hmm... I cannot find this page dayo... 👉👈 Can we go back?💕
+                Hmm... I cannot find this page dayo... 👉👈 Can we go back?🙏
             </p>
             <a href="/" class="btn btn-primary">Go Back</a>
         </div>
 	
-		<Image src={ CurrenFullBody } alt="Curren Full Body pic" loading="eager" fetchpriority="high" class={"full-body"}/>
+		<Image src={ CurrenSad } alt="Curren is Sad" loading="eager" fetchpriority="high" class={"half-body"}/>
 	</div>
 </MainLayout>
