@@ -1,5 +1,8 @@
 ---
+import { Image } from "astro:assets"
 import "../styles/layout.css";
+
+import CurrenTitle from "../assets/images/CurrenChannelTitle.png"
 
 let {title} = Astro.props;
 ---
@@ -25,6 +28,9 @@ let {title} = Astro.props;
 	</head>
 	<body>
         <main>
+			<a href="https://www.youtube.com/@CurrenCh" target="_blank" class="title-wrapper">
+				<Image src={ CurrenTitle } alt="Curren Title" loading="eager" fetchpriority="high" class={"title"} draggable="false"/>
+			</a>
 		    <slot></slot>
         </main>
         <footer>
