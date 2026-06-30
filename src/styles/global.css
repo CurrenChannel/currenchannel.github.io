@@ -94,6 +94,6 @@ footer {
 
     text-align: center;
 
-    border-top: 2px solid var(--color-primary-accent);
+    border-top: 2px solid var(--color-accent);
     background-color: var(--color-footer-bg);
 }
