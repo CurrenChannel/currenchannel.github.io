@@ -4,13 +4,14 @@
   /* =========================================
      Base Palette
      ========================================= */
-  --color-primary-accent: #F86669; /* Coral Red */
+  --color-accent: #F86669; /* Coral Red */
+  --color-accent-dark: #bd4345; /* Dark Coral Red */
   --color-background-main: #47423E; /* Earthy Charcoal */
 
   /* =========================================
      Interactive States
      ========================================= */
-  --color-accent-hover: #FF9E9F; /* Soft Coral */
+  --color-accent-hover: #ff7c7e; /* Soft Coral */
 
   /* =========================================
      Typography

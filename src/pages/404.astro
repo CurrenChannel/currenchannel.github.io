@@ -1,0 +1,19 @@
+---
+import { Image } from "astro:assets"
+import MainLayout from "../layouts/MainLayout.astro"
+import CurrenFullBody from "../assets/images/Curren_Chan_fullbody.webp"
+---
+
+<MainLayout title="Curren Channel">
+	<div class="flexbox-x flexbox-shaded">
+        <div class="flexbox-y">
+            <h1>404 Page not found</h1>
+            <p class="center-text shaded">
+                Hmm... I cannot find this page dayo... 👉👈 You wanna go back?💕
+            </p>
+            <a href="/" class="btn btn-primary">Go Back</a>
+        </div>
+	
+		<Image src={ CurrenFullBody } alt="Curren Full Body pic" loading="eager" fetchpriority="high" class={"full-body"}/>
+	</div>
+</MainLayout>
