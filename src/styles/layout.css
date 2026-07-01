@@ -55,10 +55,16 @@
 }
 
 .btn {
+    color: var(--color-text-primary);
     padding: 10px;
 
     border-radius: 10px;
     text-decoration-line: none;
+}
+
+.btn:hover,
+.btn:active {
+    color: var(--color-text-primary);
 }
 
 .btn-primary {
