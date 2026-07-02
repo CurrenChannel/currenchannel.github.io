@@ -24,8 +24,8 @@
      ========================================= */
   --color-background-light: #EFECE8; /* Light Greige (Alternative sections) */
   --color-background-card: #5C5551; /* Lighter charcoal for UI cards/boxes */
-  --color-nav-solid: #3D3835; /* Darker charcoal for a solid nav bar */
-  --color-footer-bg: #2E2A27;
+  --color-background-dark: #3D3835; /* Darker charcoal for a solid nav bar */
+  --color-background-darker: #2E2A27;
 
   /* =========================================
      Frosted Glass (Glassmorphism)
@@ -107,7 +107,7 @@ footer {
     text-align: center;
 
     border-top: 2px solid var(--color-accent);
-    background-color: var(--color-footer-bg);
+    background-color: var(--color-background-darker);
 }
 
 footer p {
@@ -115,9 +115,42 @@ footer p {
     padding: 0;
 }
 
+/* Buttons */
+
+.btn {
+    color: var(--color-text-primary);
+    padding: 10px;
+
+    border-radius: 10px;
+    text-decoration-line: none;
+}
+
+.btn:hover,
+.btn:active {
+    color: var(--color-text-primary);
+}
+
+.btn-primary {
+    background-color: var(--color-accent);
+    border: 1px solid var(--color-accent-dark);
+}
+
+.btn-primary:hover {
+    background-color: var(--color-accent-hover);
+}
+
+.btn-secondary {
+    background-color: var(--color-background-dark);
+    border: 1px solid var(--color-background-darker);
+}
+
+.btn-secondary:hover {
+    background-color: var(--color-background-card);
+}
+
 /* Nav */
 
-.nav {
+/* .nav {
     width: 100%;
     background-color: #00000066;
 }
@@ -170,7 +203,7 @@ footer p {
 
 .nav-item:active .nav-link {
     color: var(--color-text-secondary);
-}
+} */
 
 .logo-container {
     position: relative;

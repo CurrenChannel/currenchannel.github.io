@@ -54,28 +54,6 @@
     border-radius: 10px;
 }
 
-.btn {
-    color: var(--color-text-primary);
-    padding: 10px;
-
-    border-radius: 10px;
-    text-decoration-line: none;
-}
-
-.btn:hover,
-.btn:active {
-    color: var(--color-text-primary);
-}
-
-.btn-primary {
-    background-color: var(--color-accent);
-    border: 1px solid var(--color-accent-dark);
-}
-
-.btn-primary:hover {
-    background-color: var(--color-accent-hover);
-}
-
 /* Images */
 
 .full-body {
