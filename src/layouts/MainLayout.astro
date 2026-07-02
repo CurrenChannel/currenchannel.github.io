@@ -46,7 +46,7 @@ let {title} = Astro.props;
 			</ul>
 		</nav> -->
         <main>
-			<a href="https://www.youtube.com/@CurrenCh" target="_blank" class="title-wrapper">
+			<a href="https://www.youtube.com/@CurrenCh" target="_blank" rel="noopener" class="title-wrapper">
 				<Image src={ CurrenTitle } alt="Curren Title" loading="eager" fetchpriority="high" class="title" draggable="false"/>
 			</a>
 		    <slot></slot>
@@ -56,7 +56,7 @@ let {title} = Astro.props;
 				Copyright (c) 2026 Curren Channel. All Rights Reserved.<br>
 				This is a fanmade project. Not Affiliated with Cygames.<br>
 				The Umamusume media franchise, models and official art are copyrights of Cygames.<br>
-				For more information, consult <a href="https://umamusume.com/fan-createdguide/">Fan-Created Content Guidelines</a>
+				For more information, consult <a href="https://umamusume.com/fan-createdguide/" target="_blank" rel="noopener">Fan-Created Content Guidelines</a>
 			</p>
         </footer>
 	</body>
