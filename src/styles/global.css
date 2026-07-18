@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=RocknRoll+One&display=swap');
 
 :root {
   /* =========================================
@@ -75,7 +75,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Potta One", system-ui;
+    font-family: "RocknRoll One", sans-serif;
     color: var(--color-text-primary);
 }
 
