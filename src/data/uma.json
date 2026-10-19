@@ -1,0 +1,3194 @@
+[
+	{
+		"id": 1001,
+		"id_name": "specialweek",
+		"name": "Special Week",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 81,
+			"w": 56,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1002,
+		"id_name": "silencesuzuka",
+		"name": "Silence Suzuka",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 161,
+		"bwh": {
+			"b": 70,
+			"w": 53,
+			"h": 79
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1003,
+		"id_name": "tokaiteio",
+		"name": "Tokai Teio",
+		"search_names": "hachimi",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 150,
+		"bwh": {
+			"b": 77,
+			"w": 54,
+			"h": 76
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1004,
+		"id_name": "maruzensky",
+		"name": "Maruzensky",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"short",
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf",
+			"dirt"
+		],
+		"height": 164,
+		"bwh": {
+			"b": 92,
+			"w": 58,
+			"h": 88
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1005,
+		"id_name": "fujikiseki",
+		"name": "Fuji Kiseki",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 168,
+		"bwh": {
+			"b": 84,
+			"w": 58,
+			"h": 82
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1006,
+		"id_name": "oguricap",
+		"name": "Oguri Cap",
+		"search_names": "fatty",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf",
+			"dirt"
+		],
+		"height": 167,
+		"bwh": {
+			"b": 82,
+			"w": 57,
+			"h": 82
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1007,
+		"id_name": "goldship",
+		"name": "Gold Ship",
+		"search_names": "golshi gorushi",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 170,
+		"bwh": {
+			"b": 88,
+			"w": 55,
+			"h": 88
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1008,
+		"id_name": "vodka",
+		"name": "Vodka",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 165,
+		"bwh": {
+			"b": 76,
+			"w": 55,
+			"h": 78
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1009,
+		"id_name": "daiwascarlet",
+		"name": "Daiwa Scarlet",
+		"search_names": "daisca daiska",
+		"sex": "mare",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 163,
+		"bwh": {
+			"b": 90,
+			"w": 56,
+			"h": 82
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1010,
+		"id_name": "taikishuttle",
+		"name": "Taiki Shuttle",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf",
+			"dirt"
+		],
+		"height": 172,
+		"bwh": {
+			"b": 94,
+			"w": 59,
+			"h": 90
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1011,
+		"id_name": "grasswonder",
+		"name": "Grass Wonder",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 152,
+		"bwh": {
+			"b": 77,
+			"w": 53,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1012,
+		"id_name": "hishiamazon",
+		"name": "Hishi Amazon",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 3,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 92,
+			"w": 59,
+			"h": 89
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1013,
+		"id_name": "mejiromcqueen",
+		"name": "Mejiro McQueen",
+		"search_names": "mac makku",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 159,
+		"bwh": {
+			"b": 71,
+			"w": 54,
+			"h": 76
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1014,
+		"id_name": "elcondorpasa",
+		"name": "El Condor Pasa",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf",
+			"dirt"
+		],
+		"height": 163,
+		"bwh": {
+			"b": 89,
+			"w": 58,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1015,
+		"id_name": "tmoperao",
+		"name": "T.M. Opera O",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 76,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1016,
+		"id_name": "naritabrian",
+		"name": "Narita Brian",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 91,
+			"w": 58,
+			"h": 85
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1017,
+		"id_name": "symbolirudolf",
+		"name": "Symboli Rudolf",
+		"search_names": "dadjokes",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 165,
+		"bwh": {
+			"b": 86,
+			"w": 59,
+			"h": 85
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1018,
+		"id_name": "airgroove",
+		"name": "Air Groove",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 165,
+		"bwh": {
+			"b": 90,
+			"w": 57,
+			"h": 86
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1019,
+		"id_name": "agnesdigital",
+		"name": "Agnes Digital",
+		"search_names": "hentai",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf",
+			"dirt"
+		],
+		"height": 143,
+		"bwh": {
+			"b": 74,
+			"w": 51,
+			"h": 75
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1020,
+		"id_name": "seiunsky",
+		"name": "Seiun Sky",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 155,
+		"bwh": {
+			"b": 77,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1021,
+		"id_name": "tamamocross",
+		"name": "Tamamo Cross",
+		"search_names": "brokie",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 140,
+		"bwh": {
+			"b": 71,
+			"w": 52,
+			"h": 73
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1022,
+		"id_name": "finemotion",
+		"name": "Fine Motion",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 79,
+			"w": 56,
+			"h": 83
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1023,
+		"id_name": "biwahayahide",
+		"name": "Biwa Hayahide",
+		"search_names": "bnw",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 171,
+		"bwh": {
+			"b": 93,
+			"w": 61,
+			"h": 88
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1024,
+		"id_name": "mayanotopgun",
+		"name": "Mayano Top Gun",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 143,
+		"bwh": {
+			"b": 75,
+			"w": 51,
+			"h": 73
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1025,
+		"id_name": "manhattancafe",
+		"name": "Manhattan Cafe",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 155,
+		"bwh": {
+			"b": 73,
+			"w": 54,
+			"h": 78
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1026,
+		"id_name": "mihonobourbon",
+		"name": "Mihono Bourbon",
+		"search_names": "clanker",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 86,
+			"w": 54,
+			"h": 87
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1027,
+		"id_name": "mejiroryan",
+		"name": "Mejiro Ryan",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 163,
+		"bwh": {
+			"b": 87,
+			"w": 57,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1028,
+		"id_name": "hishiakebono",
+		"name": "Hishi Akebono",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 180,
+		"bwh": {
+			"b": 99,
+			"w": 64,
+			"h": 88
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1029,
+		"id_name": "yukinobijin",
+		"name": "Yukino Bijin",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf",
+			"dirt"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 80,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1030,
+		"id_name": "riceshower",
+		"name": "Rice Shower",
+		"search_names": "ears",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 145,
+		"bwh": {
+			"b": 75,
+			"w": 51,
+			"h": 76
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1031,
+		"id_name": "inesfujin",
+		"name": "Ines Fujin",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 167,
+		"bwh": {
+			"b": 88,
+			"w": 58,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1032,
+		"id_name": "agnestachyon",
+		"name": "Agnes Tachyon",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 159,
+		"bwh": {
+			"b": 83,
+			"w": 55,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1033,
+		"id_name": "admirevega",
+		"name": "Admire Vega",
+		"search_names": "ayabe",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 85,
+			"w": 57,
+			"h": 82
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1034,
+		"id_name": "inarione",
+		"name": "Inari One",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf",
+			"dirt"
+		],
+		"height": 139,
+		"bwh": {
+			"b": 85,
+			"w": 51,
+			"h": 74
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1035,
+		"id_name": "winningticket",
+		"name": "Winning Ticket",
+		"search_names": "ticketzo bnw",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 88,
+			"w": 57,
+			"h": 85
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1036,
+		"id_name": "airshakur",
+		"name": "Air Shakur",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 168,
+		"bwh": {
+			"b": 77,
+			"w": 56,
+			"h": 85
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1037,
+		"id_name": "eishinflash",
+		"name": "Eishin Flash",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 88,
+			"w": 58,
+			"h": 86
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1038,
+		"id_name": "currenchan",
+		"name": "Curren Chan",
+		"search_names": "wife",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"short"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 155,
+		"bwh": {
+			"b": 83,
+			"w": 55,
+			"h": 79
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1039,
+		"id_name": "kawakamiprincess",
+		"name": "Kawakami Princess",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 154,
+		"bwh": {
+			"b": 91,
+			"w": 57,
+			"h": 87
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1040,
+		"id_name": "goldcity",
+		"name": "Gold City",
+		"search_names": "shitty",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 85,
+			"w": 58,
+			"h": 82
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1041,
+		"id_name": "sakurabakushino",
+		"name": "Sakura Bakushin O",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"short"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 83,
+			"w": 55,
+			"h": 83
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1042,
+		"id_name": "seekingthepearl",
+		"name": "Seeking the Pearl",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 168,
+		"bwh": {
+			"b": 91,
+			"w": 57,
+			"h": 87
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1043,
+		"id_name": "shinkowindy",
+		"name": "Shinko Windy",
+		"search_names": "dog",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"mile"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 152,
+		"bwh": {
+			"b": 77,
+			"w": 57,
+			"h": 88
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1044,
+		"id_name": "sweeptosho",
+		"name": "Sweep Tosho",
+		"search_names": "yadayada",
+		"sex": "mare",
+		"running_style": 3,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 139,
+		"bwh": {
+			"b": 72,
+			"w": 53,
+			"h": 73
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1045,
+		"id_name": "supercreek",
+		"name": "Super Creek",
+		"search_names": "googoobabies",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 168,
+		"bwh": {
+			"b": 97,
+			"w": 61,
+			"h": 91
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1046,
+		"id_name": "smartfalcon",
+		"name": "Smart Falcon",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 78,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1047,
+		"id_name": "zennorobroy",
+		"name": "Zenno Rob Roy",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 140,
+		"bwh": {
+			"b": 89,
+			"w": 56,
+			"h": 78
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1048,
+		"id_name": "tosenjordan",
+		"name": "Tosen Jordan",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 82,
+			"w": 56,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1049,
+		"id_name": "nakayamafesta",
+		"name": "Nakayama Festa",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 159,
+		"bwh": {
+			"b": 78,
+			"w": 54,
+			"h": 79
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1050,
+		"id_name": "naritataishin",
+		"name": "Narita Taishin",
+		"search_names": "bnw",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 145,
+		"bwh": {
+			"b": 69,
+			"w": 50,
+			"h": 73
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1051,
+		"id_name": "nishinoflower",
+		"name": "Nishino Flower",
+		"search_names": "2kb",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 135,
+		"bwh": {
+			"b": 67,
+			"w": 48,
+			"h": 70
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1052,
+		"id_name": "haruurara",
+		"name": "Haru Urara",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"short"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 140,
+		"bwh": {
+			"b": 74,
+			"w": 51,
+			"h": 73
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1053,
+		"id_name": "bamboomemory",
+		"name": "Bamboo Memory",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 77,
+			"w": 57,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1054,
+		"id_name": "bikopegasus",
+		"name": "Biko Pegasus",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"short"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 144,
+		"bwh": {
+			"b": 72,
+			"w": 54,
+			"h": 75
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1055,
+		"id_name": "marveloussunday",
+		"name": "Marvelous Sunday",
+		"search_names": "marvey",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 145,
+		"bwh": {
+			"b": 87,
+			"w": 52,
+			"h": 77
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1056,
+		"id_name": "matikanefukukitaru",
+		"name": "Matikanefukukitaru",
+		"search_names": "machifuku machikanefukukitaru",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 84,
+			"w": 59,
+			"h": 83
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1057,
+		"id_name": "mrcb",
+		"name": "Mr. C.B.",
+		"search_names": "shibi",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 166,
+		"bwh": {
+			"b": 84,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1058,
+		"id_name": "meishodoto",
+		"name": "Meisho Doto",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 164,
+		"bwh": {
+			"b": 99,
+			"w": 61,
+			"h": 89
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1059,
+		"id_name": "mejirodober",
+		"name": "Mejiro Dober",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 83,
+			"w": 57,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1060,
+		"id_name": "nicenature",
+		"name": "Nice Nature",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 79,
+			"w": 56,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1061,
+		"id_name": "kinghalo",
+		"name": "King Halo",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"short",
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 159,
+		"bwh": {
+			"b": 85,
+			"w": 60,
+			"h": 85
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1062,
+		"id_name": "matikanetannhauser",
+		"name": "Matikanetannhauser",
+		"search_names": "mambo machitan machikanetannhauser",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 155,
+		"bwh": {
+			"b": 80,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1063,
+		"id_name": "ikunodictus",
+		"name": "Ikuno Dictus",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 163,
+		"bwh": {
+			"b": 75,
+			"w": 53,
+			"h": 82
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1064,
+		"id_name": "mejiropalmer",
+		"name": "Mejiro Palmer",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 84,
+			"w": 57,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1065,
+		"id_name": "daitakuhelios",
+		"name": "Daitaku Helios",
+		"search_names": "weiiiiiiiiiiiiiiiiiiiiiii",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 82,
+			"w": 53,
+			"h": 85
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1066,
+		"id_name": "twinturbo",
+		"name": "Twin Turbo",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 146,
+		"bwh": {
+			"b": 72,
+			"w": 51,
+			"h": 74
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1067,
+		"id_name": "satonodiamond",
+		"name": "Satono Diamond",
+		"search_names": "freakydiamond",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 87,
+			"w": 54,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1068,
+		"id_name": "kitasanblack",
+		"name": "Kitasan Black",
+		"search_names": "harikitteikou",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 162,
+		"bwh": {
+			"b": 85,
+			"w": 56,
+			"h": 88
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1069,
+		"id_name": "sakurachiyonoo",
+		"name": "Sakura Chiyono O",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 80,
+			"w": 55,
+			"h": 83
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1070,
+		"id_name": "siriussymboli",
+		"name": "Sirius Symboli",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 167,
+		"bwh": {
+			"b": 89,
+			"w": 55,
+			"h": 86
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1071,
+		"id_name": "mejiroardan",
+		"name": "Mejiro Ardan",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 162,
+		"bwh": {
+			"b": 87,
+			"w": 56,
+			"h": 85
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1072,
+		"id_name": "yaenomuteki",
+		"name": "Yaeno Muteki",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 159,
+		"bwh": {
+			"b": 78,
+			"w": 54,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1073,
+		"id_name": "tsurumarutsuyoshi",
+		"name": "Tsurumaru Tsuyoshi",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 85,
+			"w": 58,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1074,
+		"id_name": "mejirobright",
+		"name": "Mejiro Bright",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 84,
+			"w": 59,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1075,
+		"id_name": "daringtact",
+		"name": "Daring Tact",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 80,
+			"w": 55,
+			"h": 82
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1076,
+		"id_name": "sakuralaurel",
+		"name": "Sakura Laurel",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 162,
+		"bwh": {
+			"b": 78,
+			"w": 54,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1077,
+		"id_name": "naritatoproad",
+		"name": "Narita Top Road",
+		"search_names": "ntr",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 166,
+		"bwh": {
+			"b": 86,
+			"w": 56,
+			"h": 83
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1078,
+		"id_name": "yamaninzephyr",
+		"name": "Yamanin Zephyr",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"short",
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 85,
+			"w": 52,
+			"h": 77
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1079,
+		"id_name": "furioso",
+		"name": "Furioso",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 165,
+		"bwh": {
+			"b": 81,
+			"w": 53,
+			"h": 78
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1080,
+		"id_name": "transcend",
+		"name": "Transcend",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 164,
+		"bwh": {
+			"b": 86,
+			"w": 57,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1081,
+		"id_name": "espoircity",
+		"name": "Espoir City",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 153,
+		"bwh": {
+			"b": 79,
+			"w": 55,
+			"h": 79
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1082,
+		"id_name": "northflight",
+		"name": "North Flight",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 83,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1083,
+		"id_name": "symbolikriss",
+		"name": "Symboli Kris S",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 170,
+		"bwh": {
+			"b": 91,
+			"w": 58,
+			"h": 88
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1084,
+		"id_name": "taninogimlet",
+		"name": "Tanino Gimlet",
+		"search_names": "fencebreaker",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 166,
+		"bwh": {
+			"b": 77,
+			"w": 56,
+			"h": 79
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1085,
+		"id_name": "daiichiruby",
+		"name": "Daiichi Ruby",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 141,
+		"bwh": {
+			"b": 71,
+			"w": 51,
+			"h": 76
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1086,
+		"id_name": "mejiroramonu",
+		"name": "Mejiro Ramonu",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 165,
+		"bwh": {
+			"b": 87,
+			"w": 57,
+			"h": 90
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1087,
+		"id_name": "astonmachan",
+		"name": "Aston Machan",
+		"search_names": "mamamachan neverforget dontforget",
+		"sex": "mare",
+		"running_style": 0,
+		"distances": [
+			"short"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 152,
+		"bwh": {
+			"b": 86,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1088,
+		"id_name": "satonocrown",
+		"name": "Satono Crown",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 163,
+		"bwh": {
+			"b": 82,
+			"w": 53,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1089,
+		"id_name": "chevalgrand",
+		"name": "Cheval Grand",
+		"search_names": "chevacchi",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 85,
+			"w": 56,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1090,
+		"id_name": "verxina",
+		"name": "Verxina",
+		"search_names": "vershina",
+		"sex": "mare",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 83,
+			"w": 53,
+			"h": 78
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1091,
+		"id_name": "vivlos",
+		"name": "Vivlos",
+		"search_names": "biburosu",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 81,
+			"w": 51,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1092,
+		"id_name": "dantsuflame",
+		"name": "Dantsu Flame",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 163,
+		"bwh": {
+			"b": 90,
+			"w": 60,
+			"h": 88
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1093,
+		"id_name": "ksmiracle",
+		"name": "K.S.Miracle",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 79,
+			"w": 51,
+			"h": 77
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1094,
+		"id_name": "junglepocket",
+		"name": "Jungle Pocket",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 158,
+		"bwh": {
+			"b": 77,
+			"w": 56,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1095,
+		"id_name": "believe",
+		"name": "Believe",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"short"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 72,
+			"w": 54,
+			"h": 77
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1096,
+		"id_name": "noreason",
+		"name": "No Reason",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 161,
+		"bwh": {
+			"b": 80,
+			"w": 56,
+			"h": 85
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1097,
+		"id_name": "stillinlove",
+		"name": "Still in Love",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 153,
+		"bwh": {
+			"b": 72,
+			"w": 50,
+			"h": 76
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1098,
+		"id_name": "copanorickey",
+		"name": "Copano Rickey",
+		"search_names": "rikki",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 83,
+			"w": 55,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1099,
+		"id_name": "hokkotarumae",
+		"name": "Hokko Tarumae",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 162,
+		"bwh": {
+			"b": 86,
+			"w": 56,
+			"h": 85
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1100,
+		"id_name": "wonderacute",
+		"name": "Wonder Acute",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 159,
+		"bwh": {
+			"b": 75,
+			"w": 52,
+			"h": 78
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1101,
+		"id_name": "samsonbig",
+		"name": "Samson Big",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 146,
+		"bwh": {
+			"b": 72,
+			"w": 51,
+			"h": 72
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1102,
+		"id_name": "soundsofearth",
+		"name": "Sounds of Earth",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 161,
+		"bwh": {
+			"b": 80,
+			"w": 52,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1103,
+		"id_name": "royceandroyce",
+		"name": "Royce and Royce",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 161,
+		"bwh": {
+			"b": 83,
+			"w": 56,
+			"h": 82
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1104,
+		"id_name": "katsuragiace",
+		"name": "Katsuragi Ace",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 162,
+		"bwh": {
+			"b": 81,
+			"w": 54,
+			"h": 77
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1105,
+		"id_name": "neouniverse",
+		"name": "Neo Universe",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 79,
+			"w": 52,
+			"h": 77
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1106,
+		"id_name": "hishimiracle",
+		"name": "Hishi Miracle",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 82,
+			"w": 57,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1107,
+		"id_name": "tapdancecity",
+		"name": "Tap Dance City",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 168,
+		"bwh": {
+			"b": 89,
+			"w": 58,
+			"h": 83
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1108,
+		"id_name": "duramente",
+		"name": "Duramente",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 166,
+		"bwh": {
+			"b": 89,
+			"w": 57,
+			"h": 85
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1109,
+		"id_name": "rheinkraft",
+		"name": "Rhein Kraft",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"short",
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 85,
+			"w": 55,
+			"h": 83
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1110,
+		"id_name": "cesario",
+		"name": "Cesario",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 167,
+		"bwh": {
+			"b": 80,
+			"w": 53,
+			"h": 84
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1111,
+		"id_name": "airmessiah",
+		"name": "Air Messiah",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 83,
+			"w": 56,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1112,
+		"id_name": "daringheart",
+		"name": "Daring Heart",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 82,
+			"w": 52,
+			"h": 84
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1113,
+		"id_name": "fusaichipandora",
+		"name": "Fusaichi Pandora",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 165,
+		"bwh": {
+			"b": 92,
+			"w": 61,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1114,
+		"id_name": "buenavista",
+		"name": "Buena Vista",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 154,
+		"bwh": {
+			"b": 81,
+			"w": 56,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1115,
+		"id_name": "orfevre",
+		"name": "Orfevre",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 162,
+		"bwh": {
+			"b": 82,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1116,
+		"id_name": "gentildonna",
+		"name": "Gentildonna",
+		"search_names": "mommy",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 167,
+		"bwh": {
+			"b": 95,
+			"w": 63,
+			"h": 87
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1117,
+		"id_name": "winvariation",
+		"name": "Win Variation",
+		"search_names": "barichan",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 161,
+		"bwh": {
+			"b": 76,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1118,
+		"id_name": "admiregroove",
+		"name": "Admire Groove",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 162,
+		"bwh": {
+			"b": 88,
+			"w": 57,
+			"h": 84
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1119,
+		"id_name": "dreamjourney",
+		"name": "Dream Journey",
+		"search_names": "dorija",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 144,
+		"bwh": {
+			"b": 66,
+			"w": 48,
+			"h": 69
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1120,
+		"id_name": "calstonelighto",
+		"name": "Calstone Light O",
+		"search_names": "neko",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"short"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 159,
+		"bwh": {
+			"b": 80,
+			"w": 55,
+			"h": 80
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1121,
+		"id_name": "durandal",
+		"name": "Durandal",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 161,
+		"bwh": {
+			"b": 89,
+			"w": 56,
+			"h": 85
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1122,
+		"id_name": "genuine",
+		"name": "Genuine",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 87,
+			"w": 58,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1124,
+		"id_name": "bubblegumfellow",
+		"name": "Bubble Gum Fellow",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 166,
+		"bwh": {
+			"b": 82,
+			"w": 58,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1126,
+		"id_name": "sakurachitoseo",
+		"name": "Sakura Chitose O",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 161,
+		"bwh": {
+			"b": 84,
+			"w": 56,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1127,
+		"id_name": "fenomeno",
+		"name": "Fenomeno",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 171,
+		"bwh": {
+			"b": 81,
+			"w": 59,
+			"h": 82
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1128,
+		"id_name": "blastonepiece",
+		"name": "Blast Onepiece",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 174,
+		"bwh": {
+			"b": 93,
+			"w": 63,
+			"h": 90
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1129,
+		"id_name": "almondeye",
+		"name": "Almond Eye",
+		"search_names": "almondai",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 163,
+		"bwh": {
+			"b": 86,
+			"w": 57,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1130,
+		"id_name": "luckylilac",
+		"name": "Lucky Lilac",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 162,
+		"bwh": {
+			"b": 88,
+			"w": 57,
+			"h": 85
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1131,
+		"id_name": "granalegria",
+		"name": "Gran Alegria",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"short",
+			"mile"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 161,
+		"bwh": {
+			"b": 84,
+			"w": 55,
+			"h": 85
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1132,
+		"id_name": "lovesonlyyou",
+		"name": "Loves Only You",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 88,
+			"w": 58,
+			"h": 88
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1133,
+		"id_name": "chronogenesis",
+		"name": "Chrono Genesis",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 152,
+		"bwh": {
+			"b": 77,
+			"w": 54,
+			"h": 76
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1134,
+		"id_name": "currenbouquetdor",
+		"name": "Curren Bouquetd'or",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 153,
+		"bwh": {
+			"b": 85,
+			"w": 54,
+			"h": 79
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1135,
+		"id_name": "staygold",
+		"name": "Stay Gold",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 3,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 142,
+		"bwh": {
+			"b": 67,
+			"w": 49,
+			"h": 68
+		},
+		"maturity": "loli"
+	},
+	{
+		"id": 1136,
+		"id_name": "reddesire",
+		"name": "Red Desire",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 156,
+		"bwh": {
+			"b": 74,
+			"w": 55,
+			"h": 79
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1137,
+		"id_name": "kiseki",
+		"name": "Kiseki",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 166,
+		"bwh": {
+			"b": 86,
+			"w": 56,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1138,
+		"id_name": "foreveryoung",
+		"name": "Forever Young",
+		"search_names": "nepobaby johncygames yanko ebayan",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 165,
+		"bwh": {
+			"b": 90,
+			"w": 60,
+			"h": 89
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1140,
+		"id_name": "marchelorraine",
+		"name": "Marche Lorraine",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"medium"
+		],
+		"terrain": [
+			"dirt"
+		],
+		"height": 157,
+		"bwh": {
+			"b": 90,
+			"w": 59,
+			"h": 89
+		},
+		"maturity": "mature"
+	},
+	{
+		"id": 1141,
+		"id_name": "epiphaneia",
+		"name": "Epiphaneia",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 165,
+		"bwh": {
+			"b": 81,
+			"w": 56,
+			"h": 83
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1142,
+		"id_name": "logotype",
+		"name": "Logotype",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 161,
+		"bwh": {
+			"b": 83,
+			"w": 56,
+			"h": 84
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1143,
+		"id_name": "victoirepisa",
+		"name": "Victoire Pisa",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf",
+			"dirt"
+		],
+		"height": 160,
+		"bwh": {
+			"b": 80,
+			"w": 53,
+			"h": 78
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1144,
+		"id_name": "rosekingdom",
+		"name": "Rose Kingdom",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 154,
+		"bwh": {
+			"b": 74,
+			"w": 54,
+			"h": 77
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1145,
+		"id_name": "rulership",
+		"name": "Rulership",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 2,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 168,
+		"bwh": {
+			"b": 90,
+			"w": 57,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1146,
+		"id_name": "efforia",
+		"name": "Efforia",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 1,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 165,
+		"bwh": {
+			"b": 85,
+			"w": 57,
+			"h": 86
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1148,
+		"id_name": "titleholder",
+		"name": "Titleholder",
+		"search_names": "",
+		"sex": "stallion",
+		"running_style": 0,
+		"distances": [
+			"medium",
+			"long"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 155,
+		"bwh": {
+			"b": 80,
+			"w": 55,
+			"h": 81
+		},
+		"maturity": "jk"
+	},
+	{
+		"id": 1149,
+		"id_name": "phalaenopsis",
+		"name": "Phalaenopsis",
+		"search_names": "",
+		"sex": "mare",
+		"running_style": 2,
+		"distances": [
+			"mile",
+			"medium"
+		],
+		"terrain": [
+			"turf"
+		],
+		"height": 151,
+		"bwh": {
+			"b": 76,
+			"w": 53,
+			"h": 78
+		},
+		"maturity": "jk"
+	}
+]
