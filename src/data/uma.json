@@ -19,7 +19,9 @@
 			"w": 56,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#EE6DCB",
+		"color_sub": "#FFDEF9"
 	},
 	{
 		"id": 1002,
@@ -41,7 +43,9 @@
 			"w": 53,
 			"h": 79
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#FFCE48",
+		"color_sub": "#29BD70"
 	},
 	{
 		"id": 1003,
@@ -63,7 +67,9 @@
 			"w": 54,
 			"h": 76
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#FF99D0",
+		"color_sub": "#3376D2"
 	},
 	{
 		"id": 1004,
@@ -87,7 +93,9 @@
 			"w": 58,
 			"h": 88
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#FFCD00",
+		"color_sub": "#EA504A"
 	},
 	{
 		"id": 1005,
@@ -109,7 +117,9 @@
 			"w": 58,
 			"h": 82
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#33B839",
+		"color_sub": "#444745"
 	},
 	{
 		"id": 1006,
@@ -132,7 +142,9 @@
 			"w": 57,
 			"h": 82
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#C85F63",
+		"color_sub": "#FEF9D8"
 	},
 	{
 		"id": 1007,
@@ -154,7 +166,9 @@
 			"w": 55,
 			"h": 88
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E9DA36",
+		"color_sub": "#DA3C57"
 	},
 	{
 		"id": 1008,
@@ -176,7 +190,9 @@
 			"w": 55,
 			"h": 78
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#3DD1D7",
+		"color_sub": "#D4C200"
 	},
 	{
 		"id": 1009,
@@ -198,7 +214,9 @@
 			"w": 56,
 			"h": 82
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E73472",
+		"color_sub": "#FFFFFF"
 	},
 	{
 		"id": 1010,
@@ -221,7 +239,9 @@
 			"w": 59,
 			"h": 90
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#FFAC42",
+		"color_sub": "#73C032"
 	},
 	{
 		"id": 1011,
@@ -244,7 +264,9 @@
 			"w": 53,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E3493F",
+		"color_sub": "#3A34AC"
 	},
 	{
 		"id": 1012,
@@ -266,7 +288,9 @@
 			"w": 59,
 			"h": 89
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#2185D0",
+		"color_sub": "#E6453A"
 	},
 	{
 		"id": 1013,
@@ -288,7 +312,9 @@
 			"w": 54,
 			"h": 76
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#DFC8E7",
+		"color_sub": "#00B5BE"
 	},
 	{
 		"id": 1014,
@@ -312,7 +338,9 @@
 			"w": 58,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#EFDB28",
+		"color_sub": "#DD4E31"
 	},
 	{
 		"id": 1015,
@@ -334,7 +362,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F271C4",
+		"color_sub": "#FFFBE6"
 	},
 	{
 		"id": 1016,
@@ -356,7 +386,9 @@
 			"w": 58,
 			"h": 85
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#D638A3",
+		"color_sub": "#75358C"
 	},
 	{
 		"id": 1017,
@@ -378,7 +410,9 @@
 			"w": 59,
 			"h": 85
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#C6314B",
+		"color_sub": "#1C7763"
 	},
 	{
 		"id": 1018,
@@ -399,7 +433,9 @@
 			"w": 57,
 			"h": 86
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#FAE053",
+		"color_sub": "#0092CB"
 	},
 	{
 		"id": 1019,
@@ -422,7 +458,9 @@
 			"w": 51,
 			"h": 75
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#F37F96",
+		"color_sub": "#FFFBE6"
 	},
 	{
 		"id": 1020,
@@ -444,7 +482,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F4DA40",
+		"color_sub": "#65D283"
 	},
 	{
 		"id": 1021,
@@ -466,7 +506,9 @@
 			"w": 52,
 			"h": 73
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#C6DAE7",
+		"color_sub": "#3290D6"
 	},
 	{
 		"id": 1022,
@@ -488,7 +530,9 @@
 			"w": 56,
 			"h": 83
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#EE5340",
+		"color_sub": "#20A95C"
 	},
 	{
 		"id": 1023,
@@ -510,7 +554,9 @@
 			"w": 61,
 			"h": 88
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#E776B6",
+		"color_sub": "#B03D81"
 	},
 	{
 		"id": 1024,
@@ -532,7 +578,9 @@
 			"w": 51,
 			"h": 73
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#FFC845",
+		"color_sub": "#F57D38"
 	},
 	{
 		"id": 1025,
@@ -554,7 +602,9 @@
 			"w": 54,
 			"h": 78
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E8DD4C",
+		"color_sub": "#494541"
 	},
 	{
 		"id": 1026,
@@ -576,7 +626,9 @@
 			"w": 54,
 			"h": 87
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F0ED41",
+		"color_sub": "#EE60A1"
 	},
 	{
 		"id": 1027,
@@ -598,7 +650,9 @@
 			"w": 57,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#7C4D3A",
+		"color_sub": "#14BAAE"
 	},
 	{
 		"id": 1028,
@@ -620,7 +674,9 @@
 			"w": 64,
 			"h": 88
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#FA6F8B",
+		"color_sub": "#208BCD"
 	},
 	{
 		"id": 1029,
@@ -643,7 +699,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#C8D8EB",
+		"color_sub": "#AF7E51"
 	},
 	{
 		"id": 1030,
@@ -665,7 +723,9 @@
 			"w": 51,
 			"h": 76
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#CA3E6D",
+		"color_sub": "#384A86"
 	},
 	{
 		"id": 1031,
@@ -687,7 +747,9 @@
 			"w": 58,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F078C5",
+		"color_sub": "#54AE1B"
 	},
 	{
 		"id": 1032,
@@ -709,7 +771,9 @@
 			"w": 55,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E2E868",
+		"color_sub": "#35B2B6"
 	},
 	{
 		"id": 1033,
@@ -731,7 +795,9 @@
 			"w": 57,
 			"h": 82
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#78D5E1",
+		"color_sub": "#3865A1"
 	},
 	{
 		"id": 1034,
@@ -754,7 +820,9 @@
 			"w": 51,
 			"h": 74
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#EC86D0",
+		"color_sub": "#AE419E"
 	},
 	{
 		"id": 1035,
@@ -776,7 +844,9 @@
 			"w": 57,
 			"h": 85
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#EDE233",
+		"color_sub": "#DD3D5B"
 	},
 	{
 		"id": 1036,
@@ -798,7 +868,9 @@
 			"w": 56,
 			"h": 85
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E1E000",
+		"color_sub": "#2459B4"
 	},
 	{
 		"id": 1037,
@@ -820,7 +892,9 @@
 			"w": 58,
 			"h": 86
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#3D3B3A",
+		"color_sub": "#E33067"
 	},
 	{
 		"id": 1038,
@@ -841,7 +915,9 @@
 			"w": 55,
 			"h": 79
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#47423E",
+		"color_sub": "#F86669"
 	},
 	{
 		"id": 1039,
@@ -862,7 +938,9 @@
 			"w": 57,
 			"h": 87
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#00C7B1",
+		"color_sub": "#E146A7"
 	},
 	{
 		"id": 1040,
@@ -884,7 +962,9 @@
 			"w": 58,
 			"h": 82
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E63C5C",
+		"color_sub": "#245099"
 	},
 	{
 		"id": 1041,
@@ -905,7 +985,9 @@
 			"w": 55,
 			"h": 83
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F2D4D7",
+		"color_sub": "#EE6FAB"
 	},
 	{
 		"id": 1042,
@@ -927,7 +1009,9 @@
 			"w": 57,
 			"h": 87
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#1690D4",
+		"color_sub": "#B02D40"
 	},
 	{
 		"id": 1043,
@@ -948,7 +1032,9 @@
 			"w": 57,
 			"h": 88
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#6F2678",
+		"color_sub": "#63666A"
 	},
 	{
 		"id": 1044,
@@ -970,7 +1056,9 @@
 			"w": 53,
 			"h": 73
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#BC204B",
+		"color_sub": "#926DDA"
 	},
 	{
 		"id": 1045,
@@ -992,7 +1080,9 @@
 			"w": 61,
 			"h": 91
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#C8C9C7",
+		"color_sub": "#5693DA"
 	},
 	{
 		"id": 1046,
@@ -1014,7 +1104,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#403A35",
+		"color_sub": "#F8587B"
 	},
 	{
 		"id": 1047,
@@ -1036,7 +1128,9 @@
 			"w": 56,
 			"h": 78
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#F3EA5D",
+		"color_sub": "#5F9B26"
 	},
 	{
 		"id": 1048,
@@ -1057,7 +1151,9 @@
 			"w": 56,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#1C57B9",
+		"color_sub": "#25B8AE"
 	},
 	{
 		"id": 1049,
@@ -1079,7 +1175,9 @@
 			"w": 54,
 			"h": 79
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#236192",
+		"color_sub": "#C0453F"
 	},
 	{
 		"id": 1050,
@@ -1101,7 +1199,9 @@
 			"w": 50,
 			"h": 73
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#F3DD6D",
+		"color_sub": "#E575CE"
 	},
 	{
 		"id": 1051,
@@ -1123,7 +1223,9 @@
 			"w": 48,
 			"h": 70
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#F6EB61",
+		"color_sub": "#E26ECB"
 	},
 	{
 		"id": 1052,
@@ -1144,7 +1246,9 @@
 			"w": 51,
 			"h": 73
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#EDE04B",
+		"color_sub": "#FA7395"
 	},
 	{
 		"id": 1053,
@@ -1166,7 +1270,9 @@
 			"w": 57,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#000000",
+		"color_sub": "#4E6F4F"
 	},
 	{
 		"id": 1054,
@@ -1187,7 +1293,9 @@
 			"w": 54,
 			"h": 75
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#D162B8",
+		"color_sub": "#E7396F"
 	},
 	{
 		"id": 1055,
@@ -1208,7 +1316,9 @@
 			"w": 52,
 			"h": 77
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#B52542",
+		"color_sub": "#CA46B0"
 	},
 	{
 		"id": 1056,
@@ -1230,7 +1340,9 @@
 			"w": 59,
 			"h": 83
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F8A717",
+		"color_sub": "#3D89E9"
 	},
 	{
 		"id": 1057,
@@ -1252,7 +1364,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#FBE122",
+		"color_sub": "#6FC346"
 	},
 	{
 		"id": 1058,
@@ -1274,7 +1388,9 @@
 			"w": 61,
 			"h": 89
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#D64388",
+		"color_sub": "#46449B"
 	},
 	{
 		"id": 1059,
@@ -1296,7 +1412,9 @@
 			"w": 57,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#6F3B42",
+		"color_sub": "#19B49E"
 	},
 	{
 		"id": 1060,
@@ -1318,7 +1436,9 @@
 			"w": 56,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#B82720",
+		"color_sub": "#28A959"
 	},
 	{
 		"id": 1061,
@@ -1341,7 +1461,9 @@
 			"w": 60,
 			"h": 85
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#1C57A5",
+		"color_sub": "#0E9451"
 	},
 	{
 		"id": 1062,
@@ -1363,7 +1485,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#EE5B56",
+		"color_sub": "#0F8DCE"
 	},
 	{
 		"id": 1063,
@@ -1385,7 +1509,9 @@
 			"w": 53,
 			"h": 82
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#C6D1D5",
+		"color_sub": "#49B73F"
 	},
 	{
 		"id": 1064,
@@ -1407,7 +1533,9 @@
 			"w": 57,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#865432",
+		"color_sub": "#27C79C"
 	},
 	{
 		"id": 1065,
@@ -1429,7 +1557,9 @@
 			"w": 53,
 			"h": 85
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#FBE247",
+		"color_sub": "#5B64D5"
 	},
 	{
 		"id": 1066,
@@ -1451,7 +1581,9 @@
 			"w": 51,
 			"h": 74
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#27B784",
+		"color_sub": "#1985D2"
 	},
 	{
 		"id": 1067,
@@ -1473,7 +1605,9 @@
 			"w": 54,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F9EB39",
+		"color_sub": "#94BF01"
 	},
 	{
 		"id": 1068,
@@ -1495,7 +1629,9 @@
 			"w": 56,
 			"h": 88
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#5A6065",
+		"color_sub": "#FC6D31"
 	},
 	{
 		"id": 1069,
@@ -1517,7 +1653,9 @@
 			"w": 55,
 			"h": 83
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F7DDE2",
+		"color_sub": "#F9879D"
 	},
 	{
 		"id": 1070,
@@ -1539,7 +1677,9 @@
 			"w": 55,
 			"h": 86
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#E3628C",
+		"color_sub": "#248379"
 	},
 	{
 		"id": 1071,
@@ -1560,7 +1700,9 @@
 			"w": 56,
 			"h": 85
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#BFE4EB",
+		"color_sub": "#28BAA5"
 	},
 	{
 		"id": 1072,
@@ -1581,7 +1723,9 @@
 			"w": 54,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#FFDA93",
+		"color_sub": "#DA483A"
 	},
 	{
 		"id": 1073,
@@ -1603,7 +1747,9 @@
 			"w": 58,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F5CD47",
+		"color_sub": "#8F4DAC"
 	},
 	{
 		"id": 1074,
@@ -1625,7 +1771,9 @@
 			"w": 59,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#9F5F54",
+		"color_sub": "#45C5C1"
 	},
 	{
 		"id": 1075,
@@ -1648,7 +1796,9 @@
 			"w": 55,
 			"h": 82
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#79C6DB",
+		"color_sub": "#6C5953"
 	},
 	{
 		"id": 1076,
@@ -1670,7 +1820,9 @@
 			"w": 54,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#FECDC9",
+		"color_sub": "#F0638A"
 	},
 	{
 		"id": 1077,
@@ -1692,7 +1844,9 @@
 			"w": 56,
 			"h": 83
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#8F3D7D",
+		"color_sub": "#EA5BC0"
 	},
 	{
 		"id": 1078,
@@ -1715,7 +1869,9 @@
 			"w": 52,
 			"h": 77
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#AE4544",
+		"color_sub": "#5192C1"
 	},
 	{
 		"id": 1079,
@@ -1737,7 +1893,9 @@
 			"w": 53,
 			"h": 78
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#DD3543",
+		"color_sub": "#3F54BF"
 	},
 	{
 		"id": 1080,
@@ -1759,7 +1917,9 @@
 			"w": 57,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F8475F",
+		"color_sub": "#13A9B0"
 	},
 	{
 		"id": 1081,
@@ -1781,7 +1941,9 @@
 			"w": 55,
 			"h": 79
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#293AAB",
+		"color_sub": "#D93842"
 	},
 	{
 		"id": 1082,
@@ -1803,7 +1965,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#32B5D6",
+		"color_sub": "#CA3B61"
 	},
 	{
 		"id": 1083,
@@ -1825,7 +1989,9 @@
 			"w": 58,
 			"h": 88
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#292D45",
+		"color_sub": "#12762F"
 	},
 	{
 		"id": 1084,
@@ -1847,7 +2013,9 @@
 			"w": 56,
 			"h": 79
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#173061",
+		"color_sub": "#DAB610"
 	},
 	{
 		"id": 1085,
@@ -1869,7 +2037,9 @@
 			"w": 51,
 			"h": 76
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#D2445D",
+		"color_sub": "#6946A9"
 	},
 	{
 		"id": 1086,
@@ -1891,7 +2061,9 @@
 			"w": 57,
 			"h": 90
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#3C5161",
+		"color_sub": "#4BB6AF"
 	},
 	{
 		"id": 1087,
@@ -1912,7 +2084,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E1DCCB",
+		"color_sub": "#CF4436"
 	},
 	{
 		"id": 1088,
@@ -1934,7 +2108,9 @@
 			"w": 53,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F3F19D",
+		"color_sub": "#21713A"
 	},
 	{
 		"id": 1089,
@@ -1956,7 +2132,9 @@
 			"w": 56,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#64C3C1",
+		"color_sub": "#1E3872"
 	},
 	{
 		"id": 1090,
@@ -1978,7 +2156,9 @@
 			"w": 53,
 			"h": 78
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#84C6E7",
+		"color_sub": "#4747CC"
 	},
 	{
 		"id": 1091,
@@ -2000,7 +2180,9 @@
 			"w": 51,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#84D4E3",
+		"color_sub": "#404FB1"
 	},
 	{
 		"id": 1092,
@@ -2021,7 +2203,9 @@
 			"w": 60,
 			"h": 88
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E97D97",
+		"color_sub": "#119D76"
 	},
 	{
 		"id": 1093,
@@ -2043,7 +2227,9 @@
 			"w": 51,
 			"h": 77
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#FDE93C",
+		"color_sub": "#FEF9D8"
 	},
 	{
 		"id": 1094,
@@ -2065,7 +2251,9 @@
 			"w": 56,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E6D734",
+		"color_sub": "#6AC43C"
 	},
 	{
 		"id": 1095,
@@ -2086,7 +2274,9 @@
 			"w": 54,
 			"h": 77
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#4BAECE",
+		"color_sub": "#C63663"
 	},
 	{
 		"id": 1096,
@@ -2107,7 +2297,9 @@
 			"w": 56,
 			"h": 85
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#9AD2F5",
+		"color_sub": "#CB243E"
 	},
 	{
 		"id": 1097,
@@ -2130,7 +2322,9 @@
 			"w": 50,
 			"h": 76
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#6FBBF1",
+		"color_sub": "#D83A43"
 	},
 	{
 		"id": 1098,
@@ -2152,7 +2346,9 @@
 			"w": 55,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#EEB42A",
+		"color_sub": "#D93C49"
 	},
 	{
 		"id": 1099,
@@ -2174,7 +2370,9 @@
 			"w": 56,
 			"h": 85
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#CDDEE0",
+		"color_sub": "#D94149"
 	},
 	{
 		"id": 1100,
@@ -2197,7 +2395,9 @@
 			"w": 52,
 			"h": 78
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#D8D2D9",
+		"color_sub": "#D85081"
 	},
 	{
 		"id": 1101,
@@ -2219,7 +2419,9 @@
 			"w": 51,
 			"h": 72
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#F0688E",
+		"color_sub": "#3DC3C2"
 	},
 	{
 		"id": 1102,
@@ -2241,7 +2443,9 @@
 			"w": 52,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#305991",
+		"color_sub": "#CA4640"
 	},
 	{
 		"id": 1103,
@@ -2263,7 +2467,9 @@
 			"w": 56,
 			"h": 82
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E69A22",
+		"color_sub": "#CC382E"
 	},
 	{
 		"id": 1104,
@@ -2285,7 +2491,9 @@
 			"w": 54,
 			"h": 77
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#7DB0E0",
+		"color_sub": "#F77696"
 	},
 	{
 		"id": 1105,
@@ -2307,7 +2515,9 @@
 			"w": 52,
 			"h": 77
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F8DB55",
+		"color_sub": "#5ABAE6"
 	},
 	{
 		"id": 1106,
@@ -2329,7 +2539,9 @@
 			"w": 57,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#BDD1E9",
+		"color_sub": "#4A71B2"
 	},
 	{
 		"id": 1107,
@@ -2351,7 +2563,9 @@
 			"w": 58,
 			"h": 83
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#4840AD",
+		"color_sub": "#D44853"
 	},
 	{
 		"id": 1108,
@@ -2373,7 +2587,9 @@
 			"w": 57,
 			"h": 85
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#4E4E4E",
+		"color_sub": "#BF3344"
 	},
 	{
 		"id": 1109,
@@ -2396,7 +2612,9 @@
 			"w": 55,
 			"h": 83
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#2C9679",
+		"color_sub": "#F15B75"
 	},
 	{
 		"id": 1110,
@@ -2418,7 +2636,9 @@
 			"w": 53,
 			"h": 84
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#948EAB",
+		"color_sub": "#0A3874"
 	},
 	{
 		"id": 1111,
@@ -2440,7 +2660,9 @@
 			"w": 56,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#FFFD8C",
+		"color_sub": "#2C2F9D"
 	},
 	{
 		"id": 1112,
@@ -2462,7 +2684,9 @@
 			"w": 52,
 			"h": 84
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#D0BA00",
+		"color_sub": "#38312B"
 	},
 	{
 		"id": 1113,
@@ -2485,7 +2709,9 @@
 			"w": 61,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#FBD872",
+		"color_sub": "#FD637F"
 	},
 	{
 		"id": 1114,
@@ -2508,7 +2734,9 @@
 			"w": 56,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#C0AF3B",
+		"color_sub": "#583D3E"
 	},
 	{
 		"id": 1115,
@@ -2530,7 +2758,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#ECD898",
+		"color_sub": "#BE4134"
 	},
 	{
 		"id": 1116,
@@ -2552,7 +2782,9 @@
 			"w": 63,
 			"h": 87
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#533C3D",
+		"color_sub": "#CF2F2B"
 	},
 	{
 		"id": 1117,
@@ -2574,7 +2806,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#BAD7F4",
+		"color_sub": "#C1213C"
 	},
 	{
 		"id": 1118,
@@ -2596,7 +2830,9 @@
 			"w": 57,
 			"h": 84
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#5CBAC8",
+		"color_sub": "#344D99"
 	},
 	{
 		"id": 1119,
@@ -2618,7 +2854,9 @@
 			"w": 48,
 			"h": 69
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#332D1F",
+		"color_sub": "#E6E08A"
 	},
 	{
 		"id": 1120,
@@ -2639,7 +2877,9 @@
 			"w": 55,
 			"h": 80
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F7EB49",
+		"color_sub": "#131B4C"
 	},
 	{
 		"id": 1121,
@@ -2661,7 +2901,9 @@
 			"w": 56,
 			"h": 85
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F6E656",
+		"color_sub": "#E74134"
 	},
 	{
 		"id": 1122,
@@ -2683,7 +2925,9 @@
 			"w": 58,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E17FA5",
+		"color_sub": "#D3B927"
 	},
 	{
 		"id": 1124,
@@ -2704,7 +2948,9 @@
 			"w": 58,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#E5BD00",
+		"color_sub": "#0047BB"
 	},
 	{
 		"id": 1126,
@@ -2726,7 +2972,9 @@
 			"w": 56,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#D8C8D1",
+		"color_sub": "#FA83CB"
 	},
 	{
 		"id": 1127,
@@ -2748,7 +2996,9 @@
 			"w": 59,
 			"h": 82
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#F4DB4E",
+		"color_sub": "#574A74"
 	},
 	{
 		"id": 1128,
@@ -2770,7 +3020,9 @@
 			"w": 63,
 			"h": 90
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#009CBD",
+		"color_sub": "#0CB85F"
 	},
 	{
 		"id": 1129,
@@ -2793,7 +3045,9 @@
 			"w": 57,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#CC3300",
+		"color_sub": "#FFFBE6"
 	},
 	{
 		"id": 1130,
@@ -2815,7 +3069,9 @@
 			"w": 57,
 			"h": 85
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#907594",
+		"color_sub": "#454152"
 	},
 	{
 		"id": 1131,
@@ -2837,7 +3093,9 @@
 			"w": 55,
 			"h": 85
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#EF4D60",
+		"color_sub": "#53565A"
 	},
 	{
 		"id": 1132,
@@ -2859,7 +3117,9 @@
 			"w": 58,
 			"h": 88
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#268745",
+		"color_sub": "#D93C49"
 	},
 	{
 		"id": 1133,
@@ -2881,7 +3141,9 @@
 			"w": 54,
 			"h": 76
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#464647",
+		"color_sub": "#50A19F"
 	},
 	{
 		"id": 1134,
@@ -2903,7 +3165,9 @@
 			"w": 54,
 			"h": 79
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#8E8180",
+		"color_sub": "#473D3C"
 	},
 	{
 		"id": 1135,
@@ -2925,7 +3189,9 @@
 			"w": 49,
 			"h": 68
 		},
-		"maturity": "loli"
+		"maturity": "loli",
+		"color_main": "#49699C",
+		"color_sub": "#BFB33E"
 	},
 	{
 		"id": 1136,
@@ -2947,7 +3213,9 @@
 			"w": 55,
 			"h": 79
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#CB3A43",
+		"color_sub": "#802F2D"
 	},
 	{
 		"id": 1137,
@@ -2969,7 +3237,9 @@
 			"w": 56,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#99E397",
+		"color_sub": "#405A5F"
 	},
 	{
 		"id": 1138,
@@ -2991,7 +3261,9 @@
 			"w": 60,
 			"h": 89
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#D8CED2",
+		"color_sub": "#822B4A"
 	},
 	{
 		"id": 1140,
@@ -3012,7 +3284,9 @@
 			"w": 59,
 			"h": 89
 		},
-		"maturity": "mature"
+		"maturity": "mature",
+		"color_main": "#E9A2B2",
+		"color_sub": "#8B1538"
 	},
 	{
 		"id": 1141,
@@ -3034,7 +3308,9 @@
 			"w": 56,
 			"h": 83
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#D0DEE8",
+		"color_sub": "#17AF87"
 	},
 	{
 		"id": 1142,
@@ -3056,7 +3332,9 @@
 			"w": 56,
 			"h": 84
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#BD9B60",
+		"color_sub": "#7E2D40"
 	},
 	{
 		"id": 1143,
@@ -3079,7 +3357,9 @@
 			"w": 53,
 			"h": 78
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#F1EB9D",
+		"color_sub": "#1650E3"
 	},
 	{
 		"id": 1144,
@@ -3101,7 +3381,9 @@
 			"w": 54,
 			"h": 77
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#52606B",
+		"color_sub": "#CB363D"
 	},
 	{
 		"id": 1145,
@@ -3123,7 +3405,9 @@
 			"w": 57,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#3A4C5C",
+		"color_sub": "#BEAB08"
 	},
 	{
 		"id": 1146,
@@ -3145,7 +3429,9 @@
 			"w": 57,
 			"h": 86
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#B33137",
+		"color_sub": "#FFFBE6"
 	},
 	{
 		"id": 1148,
@@ -3167,7 +3453,9 @@
 			"w": 55,
 			"h": 81
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#EBE367",
+		"color_sub": "#4EA547"
 	},
 	{
 		"id": 1149,
@@ -3189,6 +3477,8 @@
 			"w": 53,
 			"h": 78
 		},
-		"maturity": "jk"
+		"maturity": "jk",
+		"color_main": "#AE4555",
+		"color_sub": "#5BA4D9"
 	}
 ]
