@@ -10,6 +10,24 @@
 		"full_name_jp": "[スペシャルドリーマー]スペシャルウィーク",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -66,6 +84,24 @@
 		"full_name_jp": "[ほっぴん♪ビタミンハート]スペシャルウィーク",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -114,6 +150,24 @@
 		"full_name_jp": "[日之本一の総大将]スペシャルウィーク",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -162,6 +216,24 @@
 		"full_name_jp": "[サイレントイノセンス]サイレンススズカ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "A",
+				"pace": "C",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -218,6 +290,24 @@
 		"full_name_jp": "[波間のエメラルド]サイレンススズカ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "A",
+				"pace": "C",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 15,
@@ -266,6 +356,24 @@
 		"full_name_jp": "[トップ・オブ・ジョイフル]トウカイテイオー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "E",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "C",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 10,
@@ -322,6 +430,24 @@
 		"full_name_jp": "[ビヨンド・ザ・ホライズン]トウカイテイオー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "E",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "C",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -366,10 +492,28 @@
 		"chara_name_jp": "トウカイテイオー",
 		"title_en": null,
 		"title_jp": "[紫雲の夢見取り]",
-		"full_name_en": null,
+		"full_name_en": "[紫雲の夢見取り] Tokai Teio",
 		"full_name_jp": "[紫雲の夢見取り]トウカイテイオー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "C",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -418,6 +562,24 @@
 		"full_name_jp": "[フォーミュラオブルージュ]マルゼンスキー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "B",
+				"long": "C"
+			},
+			"style": {
+				"front": "A",
+				"pace": "E",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -466,6 +628,24 @@
 		"full_name_jp": "[ぶっとび☆さまーナイト]マルゼンスキー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "B",
+				"long": "C"
+			},
+			"style": {
+				"front": "A",
+				"pace": "E",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -510,10 +690,28 @@
 		"chara_name_jp": "マルゼンスキー",
 		"title_en": null,
 		"title_jp": "[祝ひ寿ぐ神速天女]",
-		"full_name_en": null,
+		"full_name_en": "[祝ひ寿ぐ神速天女] Maruzensky",
 		"full_name_jp": "[祝ひ寿ぐ神速天女]マルゼンスキー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "B",
+				"long": "C"
+			},
+			"style": {
+				"front": "A",
+				"pace": "E",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -562,6 +760,24 @@
 		"full_name_jp": "[シューティンスタァ・ルヴュ]フジキセキ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "B",
+				"long": "E"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -610,6 +826,24 @@
 		"full_name_jp": "[シュクセ・エトワーレ]フジキセキ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "B",
+				"long": "E"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -654,10 +888,28 @@
 		"chara_name_jp": "フジキセキ",
 		"title_en": null,
 		"title_jp": "[ブランシュ・エトワール]",
-		"full_name_en": null,
+		"full_name_en": "[ブランシュ・エトワール] Fuji Kiseki",
 		"full_name_jp": "[ブランシュ・エトワール]フジキセキ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -706,6 +958,24 @@
 		"full_name_jp": "[スターライトビート]オグリキャップ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -754,6 +1024,24 @@
 		"full_name_jp": "[キセキの白星]オグリキャップ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 15,
@@ -798,10 +1086,28 @@
 		"chara_name_jp": "オグリキャップ",
 		"title_en": null,
 		"title_jp": "[シンデレラグレイ]",
-		"full_name_en": null,
+		"full_name_en": "[シンデレラグレイ] Oguri Cap",
 		"full_name_jp": "[シンデレラグレイ]オグリキャップ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "B",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -850,6 +1156,24 @@
 		"full_name_jp": "[レッドストライフ]ゴールドシップ",
 		"released_gl": true,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -900,6 +1224,24 @@
 		"full_name_jp": "[RUN！乱！ランチャー！！]ゴールドシップ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -944,10 +1286,28 @@
 		"chara_name_jp": "ゴールドシップ",
 		"title_en": null,
 		"title_jp": "[La mode 564]",
-		"full_name_en": null,
+		"full_name_en": "[La mode 564] Gold Ship",
 		"full_name_jp": "[La mode 564]ゴールドシップ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 14,
@@ -996,6 +1356,24 @@
 		"full_name_jp": "[ワイルドトップギア]ウオッカ",
 		"released_gl": true,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "C",
+				"pace": "B",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -1046,6 +1424,24 @@
 		"full_name_jp": "[不凍のアクア・ウィタエ]ウオッカ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "C",
+				"pace": "B",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -1094,6 +1490,24 @@
 		"full_name_jp": "[トップ・オブ・ブルー]ダイワスカーレット",
 		"released_gl": true,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -1144,6 +1558,24 @@
 		"full_name_jp": "[緋色のニュイ・エトワレ]ダイワスカーレット",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -1192,6 +1624,24 @@
 		"full_name_jp": "[ワイルド・フロンティア]タイキシャトル",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "E",
+				"long": "G"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -1240,6 +1690,24 @@
 		"full_name_jp": "[Bubblegum☆Memories]タイキシャトル",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "E",
+				"long": "G"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -1284,10 +1752,28 @@
 		"chara_name_jp": "タイキシャトル",
 		"title_en": null,
 		"title_jp": "[Baa Baa Patisserie]",
-		"full_name_en": null,
+		"full_name_en": "[Baa Baa Patisserie] Taiki Shuttle",
 		"full_name_jp": "[Baa Baa Patisserie]タイキシャトル",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "E",
+				"long": "G"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -1336,6 +1822,24 @@
 		"full_name_jp": "[岩穿つ青]グラスワンダー",
 		"released_gl": true,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "B",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -1386,6 +1890,24 @@
 		"full_name_jp": "[セイントジェード・ヒーラー]グラスワンダー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "B",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 15,
@@ -1430,10 +1952,28 @@
 		"chara_name_jp": "グラスワンダー",
 		"title_en": null,
 		"title_jp": "[蒼炎の誉]",
-		"full_name_en": null,
+		"full_name_en": "[蒼炎の誉] Grass Wonder",
 		"full_name_jp": "[蒼炎の誉]グラスワンダー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -1482,6 +2022,24 @@
 		"full_name_jp": "[アマゾネス・ラピス]ヒシアマゾン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "C",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -1530,6 +2088,24 @@
 		"full_name_jp": "[Hungry Veil]ヒシアマゾン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "C",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -1578,6 +2154,24 @@
 		"full_name_jp": "[エレガンス・ライン]メジロマックイーン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "D",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -1634,6 +2228,24 @@
 		"full_name_jp": "[エンド・オブ・スカイ]メジロマックイーン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "D",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -1682,6 +2294,24 @@
 		"full_name_jp": "[さざ波フェアレディ]メジロマックイーン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "D",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 8,
@@ -1730,6 +2360,24 @@
 		"full_name_jp": "[エル☆Número 1]エルコンドルパサー",
 		"released_gl": true,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -1788,6 +2436,24 @@
 		"full_name_jp": "[ククルカン・モンク]エルコンドルパサー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -1836,6 +2502,24 @@
 		"full_name_jp": "[オー・ソレ・スーオ！]テイエムオペラオー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -1884,6 +2568,24 @@
 		"full_name_jp": "[初晴・青き絢爛]テイエムオペラオー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 14,
 			"stamina": 8,
@@ -1932,6 +2634,24 @@
 		"full_name_jp": "[Maverick]ナリタブライアン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 20,
@@ -1980,6 +2700,24 @@
 		"full_name_jp": "[餓狼]ナリタブライアン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -2028,6 +2766,24 @@
 		"full_name_jp": "[ロード・オブ・エンペラー]シンボリルドルフ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -2076,6 +2832,24 @@
 		"full_name_jp": "[皓月の弓取り]シンボリルドルフ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 14,
@@ -2120,10 +2894,28 @@
 		"chara_name_jp": "シンボリルドルフ",
 		"title_en": null,
 		"title_jp": "[Adamant Sovereign]",
-		"full_name_en": null,
+		"full_name_en": "[Adamant Sovereign] Symboli Rudolf",
 		"full_name_jp": "[Adamant Sovereign]シンボリルドルフ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -2172,6 +2964,24 @@
 		"full_name_jp": "[エンプレスロード]エアグルーヴ",
 		"released_gl": true,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "B",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -2222,6 +3032,24 @@
 		"full_name_jp": "[クエルクス・キウィーリス]エアグルーヴ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "B",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -2266,10 +3094,28 @@
 		"chara_name_jp": "エアグルーヴ",
 		"title_en": null,
 		"title_jp": "[悠久なるヘカテイア]",
-		"full_name_en": null,
+		"full_name_en": "[悠久なるヘカテイア] Air Groove",
 		"full_name_jp": "[悠久なるヘカテイア]エアグルーヴ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "B",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -2318,6 +3164,24 @@
 		"full_name_jp": "[超特急！フルカラー特殊PP]アグネスデジタル",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 8,
@@ -2366,6 +3230,24 @@
 		"full_name_jp": "[愛麗♡キョンシー]アグネスデジタル",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 7,
 			"stamina": 7,
@@ -2414,6 +3296,24 @@
 		"full_name_jp": "[あおぐもサミング]セイウンスカイ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "D",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -2462,6 +3362,24 @@
 		"full_name_jp": "[ソワレ・ド・シャトン]セイウンスカイ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "D",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -2506,10 +3424,28 @@
 		"chara_name_jp": "セイウンスカイ",
 		"title_en": null,
 		"title_jp": "[渚のきまぐれオランジュ]",
-		"full_name_en": null,
+		"full_name_en": "[渚のきまぐれオランジュ] Seiun Sky",
 		"full_name_jp": "[渚のきまぐれオランジュ]セイウンスカイ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "D",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -2558,6 +3494,24 @@
 		"full_name_jp": "[疾風迅雷]タマモクロス",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -2606,6 +3560,24 @@
 		"full_name_jp": "[猛ル鳴神]タマモクロス",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 14,
 			"stamina": 8,
@@ -2654,6 +3626,24 @@
 		"full_name_jp": "[Noble Seamair]ファインモーション",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "E",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -2702,6 +3692,24 @@
 		"full_name_jp": "[Titania]ファインモーション",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "E",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -2746,10 +3754,28 @@
 		"chara_name_jp": "ファインモーション",
 		"title_en": null,
 		"title_jp": "[麺華煌彩伝・極]",
-		"full_name_en": null,
+		"full_name_en": "[麺華煌彩伝・極] Fine Motion",
 		"full_name_jp": "[麺華煌彩伝・極]ファインモーション",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "E",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -2798,6 +3824,24 @@
 		"full_name_jp": "[pf.Victory formula...]ビワハヤヒデ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -2846,6 +3890,24 @@
 		"full_name_jp": "[ノエルージュ・キャロル]ビワハヤヒデ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 12,
@@ -2890,10 +3952,28 @@
 		"chara_name_jp": "ビワハヤヒデ",
 		"title_en": null,
 		"title_jp": "[Engineered Victory]",
-		"full_name_en": null,
+		"full_name_en": "[Engineered Victory] Biwa Hayahide",
 		"full_name_jp": "[Engineered Victory]ビワハヤヒデ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -2942,6 +4022,24 @@
 		"full_name_jp": "[すくらんぶる☆ゾーン]マヤノトップガン",
 		"released_gl": true,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "D",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "B",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -2992,6 +4090,24 @@
 		"full_name_jp": "[サンライト・ブーケ]マヤノトップガン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "D",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "B",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -3036,10 +4152,28 @@
 		"chara_name_jp": "マヤノトップガン",
 		"title_en": null,
 		"title_jp": "[ろっきん☆MewMeow]",
-		"full_name_en": null,
+		"full_name_en": "[ろっきん☆MewMeow] Mayano Top Gun",
 		"full_name_jp": "[ろっきん☆MewMeow]マヤノトップガン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "D",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "B",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 15,
@@ -3088,6 +4222,24 @@
 		"full_name_jp": "[Creeping Black]マンハッタンカフェ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "B",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 30,
@@ -3132,10 +4284,28 @@
 		"chara_name_jp": "マンハッタンカフェ",
 		"title_en": null,
 		"title_jp": "[柳緑小夜]",
-		"full_name_en": null,
+		"full_name_en": "[柳緑小夜] Manhattan Cafe",
 		"full_name_jp": "[柳緑小夜]マンハッタンカフェ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "B",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -3180,10 +4350,28 @@
 		"chara_name_jp": "マンハッタンカフェ",
 		"title_en": null,
 		"title_jp": "[幽玄薔薇]",
-		"full_name_en": null,
+		"full_name_en": "[幽玄薔薇] Manhattan Cafe",
 		"full_name_jp": "[幽玄薔薇]マンハッタンカフェ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "B",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 5,
@@ -3232,6 +4420,24 @@
 		"full_name_jp": "[MB-19890425]ミホノブルボン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "B",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "A",
+				"pace": "E",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -3280,6 +4486,24 @@
 		"full_name_jp": "[CODE：グラサージュ]ミホノブルボン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "B",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "A",
+				"pace": "E",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -3328,6 +4552,24 @@
 		"full_name_jp": "[ストレート・ライン]メジロライアン",
 		"released_gl": true,
 		"default_rarity": 1,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -3378,6 +4620,24 @@
 		"full_name_jp": "[マーガレット・ラッテ]メジロライアン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -3426,6 +4686,24 @@
 		"full_name_jp": "[ボーノ☆アラモーダ]ヒシアケボノ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "F",
+				"long": "G"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -3470,10 +4748,28 @@
 		"chara_name_jp": "ヒシアケボノ",
 		"title_en": null,
 		"title_jp": "[マジックナイトガーランド]",
-		"full_name_en": null,
+		"full_name_en": "[マジックナイトガーランド] Hishi Akebono",
 		"full_name_jp": "[マジックナイトガーランド]ヒシアケボノ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "F",
+				"long": "G"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -3522,6 +4818,24 @@
 		"full_name_jp": "[めんこいめんこいむつのはな]ユキノビジン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -3566,10 +4880,28 @@
 		"chara_name_jp": "ユキノビジン",
 		"title_en": null,
 		"title_jp": "[茶の子雪ん子]",
-		"full_name_en": null,
+		"full_name_en": "[茶の子雪ん子] Yukino Bijin",
 		"full_name_jp": "[茶の子雪ん子]ユキノビジン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -3618,6 +4950,24 @@
 		"full_name_jp": "[ローゼスドリーム]ライスシャワー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -3666,6 +5016,24 @@
 		"full_name_jp": "[Make up Vampire!]ライスシャワー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 15,
@@ -3710,10 +5078,28 @@
 		"chara_name_jp": "ライスシャワー",
 		"title_en": null,
 		"title_jp": "[Yummy Dreamy Fairy]",
-		"full_name_en": null,
+		"full_name_en": "[Yummy Dreamy Fairy] Rice Shower",
 		"full_name_jp": "[Yummy Dreamy Fairy]ライスシャワー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -3762,6 +5148,24 @@
 		"full_name_jp": "[オールタイム・フィーバー]アイネスフウジン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "A",
+				"pace": "C",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -3810,6 +5214,24 @@
 		"full_name_jp": "[MELTY GIFT]アイネスフウジン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "A",
+				"pace": "C",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 14,
 			"stamina": 0,
@@ -3854,10 +5276,28 @@
 		"chara_name_jp": "アイネスフウジン",
 		"title_en": null,
 		"title_jp": "[Hello Hello Island]",
-		"full_name_en": null,
+		"full_name_en": "[Hello Hello Island] Ines Fujin",
 		"full_name_jp": "[Hello Hello Island]アイネスフウジン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "A",
+				"pace": "C",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 12,
 			"stamina": 0,
@@ -3906,6 +5346,24 @@
 		"full_name_jp": "[tach-nology]アグネスタキオン",
 		"released_gl": true,
 		"default_rarity": 1,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "D",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -3956,6 +5414,24 @@
 		"full_name_jp": "[Lunatic Lab]アグネスタキオン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "D",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -4000,10 +5476,28 @@
 		"chara_name_jp": "アグネスタキオン",
 		"title_en": null,
 		"title_jp": "[Σ Experiment]",
-		"full_name_en": null,
+		"full_name_en": "[Σ Experiment] Agnes Tachyon",
 		"full_name_jp": "[Σ Experiment]アグネスタキオン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "D",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 14,
 			"stamina": 0,
@@ -4052,6 +5546,24 @@
 		"full_name_jp": "[Starry Nocturne]アドマイヤベガ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "G",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -4096,10 +5608,28 @@
 		"chara_name_jp": "アドマイヤベガ",
 		"title_en": null,
 		"title_jp": "[Glacialis Vega]",
-		"full_name_en": null,
+		"full_name_en": "[Glacialis Vega] Admire Vega",
 		"full_name_jp": "[Glacialis Vega]アドマイヤベガ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "G",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -4148,6 +5678,24 @@
 		"full_name_jp": "[稲荷所縁江戸紫]イナリワン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -4196,6 +5744,24 @@
 		"full_name_jp": "[夢ノ金原]イナリワン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 14,
 			"stamina": 0,
@@ -4244,6 +5810,24 @@
 		"full_name_jp": "[Go To Winning!]ウイニングチケット",
 		"released_gl": true,
 		"default_rarity": 1,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -4294,6 +5878,24 @@
 		"full_name_jp": "[Dream Deliverer]ウイニングチケット",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -4338,10 +5940,28 @@
 		"chara_name_jp": "ウイニングチケット",
 		"title_en": null,
 		"title_jp": "[Glorious Coat]",
-		"full_name_en": null,
+		"full_name_en": "[Glorious Coat] Winning Ticket",
 		"full_name_jp": "[Glorious Coat]ウイニングチケット",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -4390,6 +6010,24 @@
 		"full_name_jp": "[unsigned]エアシャカール",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -4434,10 +6072,28 @@
 		"chara_name_jp": "エアシャカール",
 		"title_en": null,
 		"title_jp": "[Belphegor's Prime]",
-		"full_name_en": null,
+		"full_name_en": "[Belphegor's Prime] Air Shakur",
 		"full_name_jp": "[Belphegor's Prime]エアシャカール",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 14,
@@ -4486,6 +6142,24 @@
 		"full_name_jp": "[Meisterschaft]エイシンフラッシュ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -4534,6 +6208,24 @@
 		"full_name_jp": "[コレクト・ショコラティエ]エイシンフラッシュ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 8,
@@ -4578,10 +6270,28 @@
 		"chara_name_jp": "エイシンフラッシュ",
 		"title_en": null,
 		"title_jp": "[Reines Plätschern]",
-		"full_name_en": null,
+		"full_name_en": "[Reines Plätschern] Eishin Flash",
 		"full_name_jp": "[Reines Plätschern]エイシンフラッシュ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -4630,6 +6340,24 @@
 		"full_name_jp": "[フィーユ・エクレール]カレンチャン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "D",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -4678,6 +6406,24 @@
 		"full_name_jp": "[朔月のマ・シェリ]カレンチャン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "D",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -4726,6 +6472,24 @@
 		"full_name_jp": "[プリンセス・オブ・ピンク]カワカミプリンセス",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "B",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -4770,10 +6534,28 @@
 		"chara_name_jp": "カワカミプリンセス",
 		"title_en": null,
 		"title_jp": "[水干撫子]",
-		"full_name_en": null,
+		"full_name_en": "[水干撫子] Kawakami Princess",
 		"full_name_jp": "[水干撫子]カワカミプリンセス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "B",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 8,
@@ -4822,6 +6604,24 @@
 		"full_name_jp": "[オーセンティック/1928]ゴールドシチー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "B",
+				"long": "B"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -4870,6 +6670,24 @@
 		"full_name_jp": "[秋桜ダンツァトリーチェ]ゴールドシチー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "B",
+				"long": "B"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -4914,10 +6732,28 @@
 		"chara_name_jp": "ゴールドシチー",
 		"title_en": null,
 		"title_jp": "[Boho Flare]",
-		"full_name_en": null,
+		"full_name_en": "[Boho Flare] Gold City",
 		"full_name_jp": "[Boho Flare]ゴールドシチー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -4966,6 +6802,24 @@
 		"full_name_jp": "[サクラ、すすめ！]サクラバクシンオー",
 		"released_gl": true,
 		"default_rarity": 1,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -5016,6 +6870,24 @@
 		"full_name_jp": "[レッドホット☆リーダー]サクラバクシンオー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 14,
 			"stamina": 0,
@@ -5060,10 +6932,28 @@
 		"chara_name_jp": "サクラバクシンオー",
 		"title_en": null,
 		"title_jp": "[春雷の韋駄天]",
-		"full_name_en": null,
+		"full_name_en": "[春雷の韋駄天] Sakura Bakushin O",
 		"full_name_jp": "[春雷の韋駄天]サクラバクシンオー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -5112,6 +7002,24 @@
 		"full_name_jp": "[Rocket☆Star]シーキングザパール",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "E",
+				"long": "G"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -5156,10 +7064,28 @@
 		"chara_name_jp": "シーキングザパール",
 		"title_en": null,
 		"title_jp": "[Be♪Witched]",
-		"full_name_en": null,
+		"full_name_en": "[Be♪Witched] Seeking the Pearl",
 		"full_name_jp": "[Be♪Witched]シーキングザパール",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "E",
+				"long": "G"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -5208,6 +7134,24 @@
 		"full_name_jp": "[Wicked Punk]シンコウウインディ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "F",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "A",
+				"medium": "B",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "B",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -5252,10 +7196,28 @@
 		"chara_name_jp": "シンコウウインディ",
 		"title_en": null,
 		"title_jp": "[ガブガブ☆スキャンプ]",
-		"full_name_en": null,
+		"full_name_en": "[ガブガブ☆スキャンプ] Shinko Windy",
 		"full_name_jp": "[ガブガブ☆スキャンプ]シンコウウインディ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "F",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "A",
+				"medium": "B",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "B",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -5304,6 +7266,24 @@
 		"full_name_jp": "[プラタナス・ウィッチ]スイープトウショウ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "D"
+			},
+			"style": {
+				"front": "G",
+				"pace": "G",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -5348,10 +7328,28 @@
 		"chara_name_jp": "スイープトウショウ",
 		"title_en": null,
 		"title_jp": "[リアライズ・ルーン]",
-		"full_name_en": null,
+		"full_name_en": "[リアライズ・ルーン] Sweep Tosho",
 		"full_name_jp": "[リアライズ・ルーン]スイープトウショウ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "D"
+			},
+			"style": {
+				"front": "G",
+				"pace": "G",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -5400,6 +7398,24 @@
 		"full_name_jp": "[マーマリングストリーム]スーパークリーク",
 		"released_gl": true,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "B",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -5450,6 +7466,24 @@
 		"full_name_jp": "[シフォンリボンマミー]スーパークリーク",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "B",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 14,
 			"stamina": 8,
@@ -5494,10 +7528,28 @@
 		"chara_name_jp": "スーパークリーク",
 		"title_en": null,
 		"title_jp": "[慈雨華影]",
-		"full_name_en": null,
+		"full_name_en": "[慈雨華影] Super Creek",
 		"full_name_jp": "[慈雨華影]スーパークリーク",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "B",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 13,
@@ -5546,6 +7598,24 @@
 		"full_name_jp": "[あぶそりゅーと☆LOVE]スマートファルコン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "E",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "A",
+				"pace": "D",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -5594,6 +7664,24 @@
 		"full_name_jp": "[黄昏トライアンフ]スマートファルコン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "E",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "A",
+				"pace": "D",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -5638,10 +7726,28 @@
 		"chara_name_jp": "スマートファルコン",
 		"title_en": null,
 		"title_jp": "[ルミナス☆トワラー]",
-		"full_name_en": null,
+		"full_name_en": "[ルミナス☆トワラー] Smart Falcon",
 		"full_name_jp": "[ルミナス☆トワラー]スマートファルコン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "E",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "A",
+				"pace": "D",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -5690,6 +7796,24 @@
 		"full_name_jp": "[Heroic Author]ゼンノロブロイ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -5734,10 +7858,28 @@
 		"chara_name_jp": "ゼンノロブロイ",
 		"title_en": null,
 		"title_jp": "[Inlaid Stories]",
-		"full_name_en": null,
+		"full_name_en": "[Inlaid Stories] Zenno Rob Roy",
 		"full_name_jp": "[Inlaid Stories]ゼンノロブロイ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -5786,6 +7928,24 @@
 		"full_name_jp": "[ポップス☆ジョーカー]トーセンジョーダン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "B",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -5834,6 +7994,24 @@
 		"full_name_jp": "[Aurore☆Vacances]トーセンジョーダン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 8,
@@ -5878,10 +8056,28 @@
 		"chara_name_jp": "トーセンジョーダン",
 		"title_en": null,
 		"title_jp": "[Highkey☆Hallowed]",
-		"full_name_en": null,
+		"full_name_en": "[Highkey☆Hallowed] Tosen Jordan",
 		"full_name_jp": "[Highkey☆Hallowed]トーセンジョーダン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -5930,6 +8126,24 @@
 		"full_name_jp": "[死中求活]ナカヤマフェスタ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -5982,10 +8196,28 @@
 		"chara_name_jp": "ナカヤマフェスタ",
 		"title_en": null,
 		"title_jp": "[祝祭遊戯]",
-		"full_name_en": null,
+		"full_name_en": "[祝祭遊戯] Nakayama Festa",
 		"full_name_jp": "[祝祭遊戯]ナカヤマフェスタ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -6034,6 +8266,24 @@
 		"full_name_jp": "[Nevertheless]ナリタタイシン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "D",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "F",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -6082,6 +8332,24 @@
 		"full_name_jp": "[ディファレンス・エンジニア]ナリタタイシン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "D",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "F",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 8,
@@ -6126,10 +8394,28 @@
 		"chara_name_jp": "ナリタタイシン",
 		"title_en": null,
 		"title_jp": "[迷光オーヴァライド]",
-		"full_name_en": null,
+		"full_name_en": "[迷光オーヴァライド] Narita Taishin",
 		"full_name_jp": "[迷光オーヴァライド]ナリタタイシン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "D",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "F",
+				"late": "B",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -6178,6 +8464,24 @@
 		"full_name_jp": "[ティアード・ペタル]ニシノフラワー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "E",
+				"long": "G"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -6226,6 +8530,24 @@
 		"full_name_jp": "[Sweet Juneberry]ニシノフラワー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "E",
+				"long": "G"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -6274,6 +8596,24 @@
 		"full_name_jp": "[うららん一等賞♪]ハルウララ",
 		"released_gl": true,
 		"default_rarity": 1,
+		"aptitudes": {
+			"surface": {
+				"turf": "G",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "G",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -6324,6 +8664,24 @@
 		"full_name_jp": "[初うらら♪さくさくら]ハルウララ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "G",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "G",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -6372,6 +8730,24 @@
 		"full_name_jp": "[黒鉄の大志]バンブーメモリー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "C",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "E",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -6420,6 +8796,24 @@
 		"full_name_jp": "[Ultra☆Marine]バンブーメモリー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "C",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "E",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 14,
 			"stamina": 0,
@@ -6464,10 +8858,28 @@
 		"chara_name_jp": "ビコーペガサス",
 		"title_en": null,
 		"title_jp": "[疾風ペガサス・零式]",
-		"full_name_en": null,
+		"full_name_en": "[疾風ペガサス・零式] Biko Pegasus",
 		"full_name_jp": "[疾風ペガサス・零式]ビコーペガサス",
 		"released_gl": false,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "E",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -6518,6 +8930,24 @@
 		"full_name_jp": "[☆キラ★ドキ☆ワク∞マベ∞]マーベラスサンデー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -6562,10 +8992,28 @@
 		"chara_name_jp": "マーベラスサンデー",
 		"title_en": null,
 		"title_jp": "[トリック☆リボネッタ]",
-		"full_name_en": null,
+		"full_name_en": "[トリック☆リボネッタ] Marvelous Sunday",
 		"full_name_jp": "[トリック☆リボネッタ]マーベラスサンデー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 16,
@@ -6614,6 +9062,24 @@
 		"full_name_jp": "[運気上昇☆幸福万来]マチカネフクキタル",
 		"released_gl": true,
 		"default_rarity": 1,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -6664,6 +9130,24 @@
 		"full_name_jp": "[吉兆・初あらし]マチカネフクキタル",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -6712,6 +9196,24 @@
 		"full_name_jp": "[Clear Bliss]ミスターシービー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "E",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -6756,10 +9258,28 @@
 		"chara_name_jp": "ミスターシービー",
 		"title_en": null,
 		"title_jp": "[絢爛花道歌舞く君]",
-		"full_name_en": null,
+		"full_name_en": "[絢爛花道歌舞く君] Mr. C.B.",
 		"full_name_jp": "[絢爛花道歌舞く君]ミスターシービー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "E",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -6808,6 +9328,24 @@
 		"full_name_jp": "[ブルー/レイジング]メイショウドトウ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "B",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -6856,6 +9394,24 @@
 		"full_name_jp": "[Dot-o'-Lantern]メイショウドトウ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "B",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -6904,6 +9460,24 @@
 		"full_name_jp": "[ツイステッド・ライン]メジロドーベル",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "C",
+				"pace": "B",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -6952,6 +9526,24 @@
 		"full_name_jp": "[バカンス・サフィール]メジロドーベル",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "C",
+				"pace": "B",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -7000,6 +9592,24 @@
 		"full_name_jp": "[ポインセチア・リボン]ナイスネイチャ",
 		"released_gl": true,
 		"default_rarity": 1,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -7050,6 +9660,24 @@
 		"full_name_jp": "[RUN＆WIN]ナイスネイチャ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -7094,10 +9722,28 @@
 		"chara_name_jp": "ナイスネイチャ",
 		"title_en": null,
 		"title_jp": "[ネガイノカサネ]",
-		"full_name_en": null,
+		"full_name_en": "[ネガイノカサネ] Nice Nature",
 		"full_name_jp": "[ネガイノカサネ]ナイスネイチャ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 14,
 			"stamina": 0,
@@ -7146,6 +9792,24 @@
 		"full_name_jp": "[キング・オブ・エメラルド]キングヘイロー",
 		"released_gl": true,
 		"default_rarity": 1,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "B",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -7196,6 +9860,24 @@
 		"full_name_jp": "[白く気高き激励の装]キングヘイロー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "B",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -7240,10 +9922,28 @@
 		"chara_name_jp": "キングヘイロー",
 		"title_en": null,
 		"title_jp": "[Evergreen Identity]",
-		"full_name_en": null,
+		"full_name_en": "[Evergreen Identity] King Halo",
 		"full_name_jp": "[Evergreen Identity]キングヘイロー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "B",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -7292,6 +9992,24 @@
 		"full_name_jp": "[ぱんぱかティルトット]マチカネタンホイザ",
 		"released_gl": true,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "D",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -7342,6 +10060,24 @@
 		"full_name_jp": "[ブルー・タービュランス]マチカネタンホイザ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "D",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -7386,10 +10122,28 @@
 		"chara_name_jp": "イクノディクタス",
 		"title_en": null,
 		"title_jp": "[Mantle of Steel]",
-		"full_name_en": null,
+		"full_name_en": "[Mantle of Steel] Ikuno Dictus",
 		"full_name_jp": "[Mantle of Steel]イクノディクタス",
 		"released_gl": false,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "D"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -7436,10 +10190,28 @@
 		"chara_name_jp": "イクノディクタス",
 		"title_en": null,
 		"title_jp": "[逍遥、整然たる路を]",
-		"full_name_en": null,
+		"full_name_en": "[逍遥、整然たる路を] Ikuno Dictus",
 		"full_name_jp": "[逍遥、整然たる路を]イクノディクタス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "D"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -7488,6 +10260,24 @@
 		"full_name_jp": "[Line Breakthrough]メジロパーマー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "E",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -7532,10 +10322,28 @@
 		"chara_name_jp": "メジロパーマー",
 		"title_en": null,
 		"title_jp": "[赤心のトナカイさん]",
-		"full_name_en": null,
+		"full_name_en": "[赤心のトナカイさん] Mejiro Palmer",
 		"full_name_jp": "[赤心のトナカイさん]メジロパーマー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "E",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 20,
@@ -7584,6 +10392,24 @@
 		"full_name_jp": "[Fun☆Fun☆ぱりない]ダイタクヘリオス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "B",
+				"long": "E"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -7628,10 +10454,28 @@
 		"chara_name_jp": "ダイタクヘリオス",
 		"title_en": null,
 		"title_jp": "[Joyful Jamboree!]",
-		"full_name_en": null,
+		"full_name_en": "[Joyful Jamboree!] Daitaku Helios",
 		"full_name_jp": "[Joyful Jamboree!]ダイタクヘリオス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "B",
+				"long": "E"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -7680,6 +10524,24 @@
 		"full_name_jp": "[爆走！ターボエンジン]ツインターボ",
 		"released_gl": false,
 		"default_rarity": 1,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "A",
+				"pace": "G",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 30,
 			"stamina": 0,
@@ -7730,6 +10592,24 @@
 		"full_name_jp": "[Natural Brilliance]サトノダイヤモンド",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 15,
@@ -7778,6 +10658,24 @@
 		"full_name_jp": "[花形・弥栄之翠]サトノダイヤモンド",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 15,
@@ -7822,10 +10720,28 @@
 		"chara_name_jp": "サトノダイヤモンド",
 		"title_en": null,
 		"title_jp": "[シュヴァリエ・ブル]",
-		"full_name_en": null,
+		"full_name_en": "[シュヴァリエ・ブル] Satono Diamond",
 		"full_name_jp": "[シュヴァリエ・ブル]サトノダイヤモンド",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 14,
@@ -7874,6 +10790,24 @@
 		"full_name_jp": "[錦上・大判御輿]キタサンブラック",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 10,
@@ -7922,6 +10856,24 @@
 		"full_name_jp": "[真打・慶鶴之志]キタサンブラック",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -7966,10 +10918,28 @@
 		"chara_name_jp": "キタサンブラック",
 		"title_en": null,
 		"title_jp": "[結願のしまい華]",
-		"full_name_en": null,
+		"full_name_en": "[結願のしまい華] Kitasan Black",
 		"full_name_jp": "[結願のしまい華]キタサンブラック",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -8018,6 +10988,24 @@
 		"full_name_jp": "[日下開山・花あかり]サクラチヨノオー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -8066,6 +11054,24 @@
 		"full_name_jp": "[Fleur Enneigée]サクラチヨノオー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -8114,6 +11120,24 @@
 		"full_name_jp": "[Féroce]シリウスシンボリ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "C",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -8158,10 +11182,28 @@
 		"chara_name_jp": "シリウスシンボリ",
 		"title_en": null,
 		"title_jp": "[Louve stellaire]",
-		"full_name_en": null,
+		"full_name_en": "[Louve stellaire] Sirius Symboli",
 		"full_name_jp": "[Louve stellaire]シリウスシンボリ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -8210,6 +11252,24 @@
 		"full_name_jp": "[クリノクロア・ライン]メジロアルダン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "B",
+				"medium": "A",
+				"long": "D"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "D",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -8258,6 +11318,24 @@
 		"full_name_jp": "[Neige Émeraude]メジロアルダン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "B",
+				"medium": "A",
+				"long": "D"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "D",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 8,
@@ -8306,6 +11384,24 @@
 		"full_name_jp": "[四白流星の襲]ヤエノムテキ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -8350,10 +11446,28 @@
 		"chara_name_jp": "ヤエノムテキ",
 		"title_en": null,
 		"title_jp": "[黒将Zen]",
-		"full_name_en": null,
+		"full_name_en": "[黒将Zen] Yaeno Muteki",
 		"full_name_jp": "[黒将Zen]ヤエノムテキ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 6,
@@ -8398,10 +11512,28 @@
 		"chara_name_jp": "ツルマルツヨシ",
 		"title_en": null,
 		"title_jp": "[志、高し、強し！]",
-		"full_name_en": null,
+		"full_name_en": "[志、高し、強し！] Tsurumaru Tsuyoshi",
 		"full_name_jp": "[志、高し、強し！]ツルマルツヨシ",
 		"released_gl": false,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "D",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -8452,6 +11584,24 @@
 		"full_name_jp": "[ブリュニサージュ・ライン]メジロブライト",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 14,
@@ -8496,10 +11646,28 @@
 		"chara_name_jp": "メジロブライト",
 		"title_en": null,
 		"title_jp": "[清らに星澄むスノーロリィタ]",
-		"full_name_en": null,
+		"full_name_en": "[清らに星澄むスノーロリィタ] Mejiro Bright",
 		"full_name_jp": "[清らに星澄むスノーロリィタ]メジロブライト",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -8544,10 +11712,28 @@
 		"chara_name_jp": "メジロブライト",
 		"title_en": null,
 		"title_jp": "[海辺のエレガンスシフォン]",
-		"full_name_en": null,
+		"full_name_en": "[海辺のエレガンスシフォン] Mejiro Bright",
 		"full_name_jp": "[海辺のエレガンスシフォン]メジロブライト",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 5,
 			"stamina": 10,
@@ -8596,6 +11782,24 @@
 		"full_name_jp": "[Saisir le rêve]サクラローレル",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -8640,10 +11844,28 @@
 		"chara_name_jp": "サクラローレル",
 		"title_en": null,
 		"title_jp": "[Nouvelle pousse]",
-		"full_name_en": null,
+		"full_name_en": "[Nouvelle pousse] Sakura Laurel",
 		"full_name_jp": "[Nouvelle pousse]サクラローレル",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -8688,10 +11910,28 @@
 		"chara_name_jp": "ナリタトップロード",
 		"title_en": null,
 		"title_jp": "[The Proud Road]",
-		"full_name_en": null,
+		"full_name_en": "[The Proud Road] Narita Top Road",
 		"full_name_jp": "[The Proud Road]ナリタトップロード",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "B",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 10,
@@ -8736,10 +11976,28 @@
 		"chara_name_jp": "ナリタトップロード",
 		"title_en": null,
 		"title_jp": "[Celestial Road]",
-		"full_name_en": null,
+		"full_name_en": "[Celestial Road] Narita Top Road",
 		"full_name_jp": "[Celestial Road]ナリタトップロード",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "B",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -8784,10 +12042,28 @@
 		"chara_name_jp": "ナリタトップロード",
 		"title_en": null,
 		"title_jp": "[万福龍湯伝・頂]",
-		"full_name_en": null,
+		"full_name_en": "[万福龍湯伝・頂] Narita Top Road",
 		"full_name_jp": "[万福龍湯伝・頂]ナリタトップロード",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "B",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 5,
@@ -8836,6 +12112,24 @@
 		"full_name_jp": "[Fluttertail Spirit]ヤマニンゼファー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -8880,10 +12174,28 @@
 		"chara_name_jp": "ヤマニンゼファー",
 		"title_en": null,
 		"title_jp": "[Sugary Wind]",
-		"full_name_en": null,
+		"full_name_en": "[Sugary Wind] Yamanin Zephyr",
 		"full_name_jp": "[Sugary Wind]ヤマニンゼファー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -8928,10 +12240,28 @@
 		"chara_name_jp": "フリオーソ",
 		"title_en": null,
 		"title_jp": "[衣錦還郷の瑞星]",
-		"full_name_en": null,
+		"full_name_en": "[衣錦還郷の瑞星] Furioso",
 		"full_name_jp": "[衣錦還郷の瑞星]フリオーソ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "G",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -8976,10 +12306,28 @@
 		"chara_name_jp": "トランセンド",
 		"title_en": null,
 		"title_jp": "[ZOKU-ZOKU GIZMO]",
-		"full_name_en": null,
+		"full_name_en": "[ZOKU-ZOKU GIZMO] Transcend",
 		"full_name_jp": "[ZOKU-ZOKU GIZMO]トランセンド",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "F",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -9024,10 +12372,28 @@
 		"chara_name_jp": "トランセンド",
 		"title_en": null,
 		"title_jp": "[宵闇ネオカグラ]",
-		"full_name_en": null,
+		"full_name_en": "[宵闇ネオカグラ] Transcend",
 		"full_name_jp": "[宵闇ネオカグラ]トランセンド",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "F",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -9072,10 +12438,28 @@
 		"chara_name_jp": "エスポワールシチー",
 		"title_en": null,
 		"title_jp": "[Red Devil Gear]",
-		"full_name_en": null,
+		"full_name_en": "[Red Devil Gear] Espoir City",
 		"full_name_jp": "[Red Devil Gear]エスポワールシチー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "E",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "B",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -9120,10 +12504,28 @@
 		"chara_name_jp": "ノースフライト",
 		"title_en": null,
 		"title_jp": "[Looking Fly!]",
-		"full_name_en": null,
+		"full_name_en": "[Looking Fly!] North Flight",
 		"full_name_jp": "[Looking Fly!]ノースフライト",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "A",
+				"medium": "B",
+				"long": "G"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "D",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -9168,10 +12570,28 @@
 		"chara_name_jp": "ノースフライト",
 		"title_en": null,
 		"title_jp": "[水縹の一閃]",
-		"full_name_en": null,
+		"full_name_en": "[水縹の一閃] North Flight",
 		"full_name_jp": "[水縹の一閃]ノースフライト",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "A",
+				"medium": "B",
+				"long": "G"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "D",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -9220,6 +12640,24 @@
 		"full_name_jp": "[Onyx Soldier]シンボリクリスエス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 15,
@@ -9264,10 +12702,28 @@
 		"chara_name_jp": "シンボリクリスエス",
 		"title_en": null,
 		"title_jp": "[Jetblack Automaton]",
-		"full_name_en": null,
+		"full_name_en": "[Jetblack Automaton] Symboli Kris S",
 		"full_name_jp": "[Jetblack Automaton]シンボリクリスエス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -9316,6 +12772,24 @@
 		"full_name_jp": "[身に纏うケラヴノス]タニノギムレット",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -9360,10 +12834,28 @@
 		"chara_name_jp": "タニノギムレット",
 		"title_en": null,
 		"title_jp": "[With a Twist]",
-		"full_name_en": null,
+		"full_name_en": "[With a Twist] Tanino Gimlet",
 		"full_name_jp": "[With a Twist]タニノギムレット",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -9412,6 +12904,24 @@
 		"full_name_jp": "[華麗なる紅玉]ダイイチルビー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "C",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "B",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -9456,10 +12966,28 @@
 		"chara_name_jp": "ダイイチルビー",
 		"title_en": null,
 		"title_jp": "[Flowing Blue]",
-		"full_name_en": null,
+		"full_name_en": "[Flowing Blue] Daiichi Ruby",
 		"full_name_jp": "[Flowing Blue]ダイイチルビー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "C",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "B",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 6,
 			"stamina": 0,
@@ -9504,10 +13032,28 @@
 		"chara_name_jp": "メジロラモーヌ",
 		"title_en": null,
 		"title_jp": "[オニキス・ライン]",
-		"full_name_en": null,
+		"full_name_en": "[オニキス・ライン] Mejiro Ramonu",
 		"full_name_jp": "[オニキス・ライン]メジロラモーヌ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -9552,10 +13098,28 @@
 		"chara_name_jp": "メジロラモーヌ",
 		"title_en": null,
 		"title_jp": "[Untouchable Eden]",
-		"full_name_en": null,
+		"full_name_en": "[Untouchable Eden] Mejiro Ramonu",
 		"full_name_jp": "[Untouchable Eden]メジロラモーヌ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -9604,6 +13168,24 @@
 		"full_name_jp": "[Flare]アストンマーチャン",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -9648,10 +13230,28 @@
 		"chara_name_jp": "アストンマーチャン",
 		"title_en": null,
 		"title_jp": "[溶けない砂糖菓子]",
-		"full_name_en": null,
+		"full_name_en": "[溶けない砂糖菓子] Aston Machan",
 		"full_name_jp": "[溶けない砂糖菓子]アストンマーチャン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -9696,10 +13296,28 @@
 		"chara_name_jp": "サトノクラウン",
 		"title_en": null,
 		"title_jp": "[黒翠千里行]",
-		"full_name_en": null,
+		"full_name_en": "[黒翠千里行] Satono Crown",
 		"full_name_jp": "[黒翠千里行]サトノクラウン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -9744,10 +13362,28 @@
 		"chara_name_jp": "サトノクラウン",
 		"title_en": null,
 		"title_jp": "[晴島花麗]",
-		"full_name_en": null,
+		"full_name_en": "[晴島花麗] Satono Crown",
 		"full_name_jp": "[晴島花麗]サトノクラウン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -9792,10 +13428,28 @@
 		"chara_name_jp": "シュヴァルグラン",
 		"title_en": null,
 		"title_jp": "[Grand itinéraire]",
-		"full_name_en": null,
+		"full_name_en": "[Grand itinéraire] Cheval Grand",
 		"full_name_jp": "[Grand itinéraire]シュヴァルグラン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "B",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -9840,10 +13494,28 @@
 		"chara_name_jp": "シュヴァルグラン",
 		"title_en": null,
 		"title_jp": "[夏凪ネイビードロップ]",
-		"full_name_en": null,
+		"full_name_en": "[夏凪ネイビードロップ] Cheval Grand",
 		"full_name_jp": "[夏凪ネイビードロップ]シュヴァルグラン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "B",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -9888,10 +13560,28 @@
 		"chara_name_jp": "ヴィルシーナ",
 		"title_en": null,
 		"title_jp": "[Le beau sommet]",
-		"full_name_en": null,
+		"full_name_en": "[Le beau sommet] Verxina",
 		"full_name_jp": "[Le beau sommet]ヴィルシーナ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -9936,10 +13626,28 @@
 		"chara_name_jp": "ヴィブロス",
 		"title_en": null,
 		"title_jp": "[Voyage étincelant]",
-		"full_name_en": null,
+		"full_name_en": "[Voyage étincelant] Vivlos",
 		"full_name_jp": "[Voyage étincelant]ヴィブロス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -9984,10 +13692,28 @@
 		"chara_name_jp": "ヴィブロス",
 		"title_en": null,
 		"title_jp": "[Éclat d'été]",
-		"full_name_en": null,
+		"full_name_en": "[Éclat d'été] Vivlos",
 		"full_name_jp": "[Éclat d'été]ヴィブロス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -10032,10 +13758,28 @@
 		"chara_name_jp": "ダンツフレーム",
 		"title_en": null,
 		"title_jp": "[まんなか◎スポットライト]",
-		"full_name_en": null,
+		"full_name_en": "[まんなか◎スポットライト] Dantsu Flame",
 		"full_name_jp": "[まんなか◎スポットライト]ダンツフレーム",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "B",
+				"medium": "A",
+				"long": "D"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "B",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -10080,10 +13824,28 @@
 		"chara_name_jp": "ケイエスミラクル",
 		"title_en": null,
 		"title_jp": "[Prism]",
-		"full_name_en": null,
+		"full_name_en": "[Prism] K.S.Miracle",
 		"full_name_jp": "[Prism]ケイエスミラクル",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -10128,10 +13890,28 @@
 		"chara_name_jp": "ケイエスミラクル",
 		"title_en": null,
 		"title_jp": "[秋日色アンダンテ]",
-		"full_name_en": null,
+		"full_name_en": "[秋日色アンダンテ] K.S.Miracle",
 		"full_name_jp": "[秋日色アンダンテ]ケイエスミラクル",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "B",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -10176,10 +13956,28 @@
 		"chara_name_jp": "ジャングルポケット",
 		"title_en": null,
 		"title_jp": "[王者の喊声]",
-		"full_name_en": null,
+		"full_name_en": "[王者の喊声] Jungle Pocket",
 		"full_name_jp": "[王者の喊声]ジャングルポケット",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -10224,10 +14022,28 @@
 		"chara_name_jp": "ジャングルポケット",
 		"title_en": null,
 		"title_jp": "[ヴァーミリオン・ヘッド]",
-		"full_name_en": null,
+		"full_name_en": "[ヴァーミリオン・ヘッド] Jungle Pocket",
 		"full_name_jp": "[ヴァーミリオン・ヘッド]ジャングルポケット",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 7,
@@ -10272,10 +14088,28 @@
 		"chara_name_jp": "ビリーヴ",
 		"title_en": null,
 		"title_jp": "[精粋]",
-		"full_name_en": null,
+		"full_name_en": "[精粋] Believe",
 		"full_name_jp": "[精粋]ビリーヴ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "D",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "D",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -10320,10 +14154,28 @@
 		"chara_name_jp": "ノーリーズン",
 		"title_en": null,
 		"title_jp": "[紅色塗早駆具足]",
-		"full_name_en": null,
+		"full_name_en": "[紅色塗早駆具足] No Reason",
 		"full_name_jp": "[紅色塗早駆具足]ノーリーズン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "D",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 20,
@@ -10368,10 +14220,28 @@
 		"chara_name_jp": "スティルインラブ",
 		"title_en": null,
 		"title_jp": "[緋想の誓衣]",
-		"full_name_en": null,
+		"full_name_en": "[緋想の誓衣] Still in Love",
 		"full_name_jp": "[緋想の誓衣]スティルインラブ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -10420,6 +14290,24 @@
 		"full_name_jp": "[陰陽八卦☆開運衣]コパノリッキー",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "F",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -10464,10 +14352,28 @@
 		"chara_name_jp": "コパノリッキー",
 		"title_en": null,
 		"title_jp": "[光彩陸離☆招福衣]",
-		"full_name_en": null,
+		"full_name_en": "[光彩陸離☆招福衣] Copano Rickey",
 		"full_name_jp": "[光彩陸離☆招福衣]コパノリッキー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "F",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -10516,6 +14422,24 @@
 		"full_name_jp": "[スター・ライト・シップ]ホッコータルマエ",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "G",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -10560,10 +14484,28 @@
 		"chara_name_jp": "ホッコータルマエ",
 		"title_en": null,
 		"title_jp": "[パステルマリン・ロコドル]",
-		"full_name_en": null,
+		"full_name_en": "[パステルマリン・ロコドル] Hokko Tarumae",
 		"full_name_jp": "[パステルマリン・ロコドル]ホッコータルマエ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "G",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "B",
+				"pace": "A",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 10,
@@ -10612,6 +14554,24 @@
 		"full_name_jp": "[Butterfly Sting]ワンダーアキュート",
 		"released_gl": true,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "G",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "C",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -10656,10 +14616,28 @@
 		"chara_name_jp": "ワンダーアキュート",
 		"title_en": null,
 		"title_jp": "[柔灯・湯の香の装い]",
-		"full_name_en": null,
+		"full_name_en": "[柔灯・湯の香の装い] Wonder Acute",
 		"full_name_jp": "[柔灯・湯の香の装い]ワンダーアキュート",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "G",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "B",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -10704,10 +14682,28 @@
 		"chara_name_jp": "サウンズオブアース",
 		"title_en": null,
 		"title_jp": "[リトモ・デッラ・テッラ]",
-		"full_name_en": null,
+		"full_name_en": "[リトモ・デッラ・テッラ] Sounds of Earth",
 		"full_name_jp": "[リトモ・デッラ・テッラ]サウンズオブアース",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -10752,10 +14748,28 @@
 		"chara_name_jp": "サウンズオブアース",
 		"title_en": null,
 		"title_jp": "[ソナタ・アッラ・メンタ]",
-		"full_name_en": null,
+		"full_name_en": "[ソナタ・アッラ・メンタ] Sounds of Earth",
 		"full_name_jp": "[ソナタ・アッラ・メンタ]サウンズオブアース",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "F",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 14,
@@ -10800,10 +14814,28 @@
 		"chara_name_jp": "ロイスアンドロイス",
 		"title_en": null,
 		"title_jp": "[Inspiring Genius]",
-		"full_name_en": null,
+		"full_name_en": "[Inspiring Genius] Royce and Royce",
 		"full_name_jp": "[Inspiring Genius]ロイスアンドロイス",
 		"released_gl": false,
 		"default_rarity": 2,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "E"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -10854,6 +14886,24 @@
 		"full_name_jp": "[登竜之頂]カツラギエース",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "B",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -10898,10 +14948,28 @@
 		"chara_name_jp": "カツラギエース",
 		"title_en": null,
 		"title_jp": "[雅号・墨龍]",
-		"full_name_en": null,
+		"full_name_en": "[雅号・墨龍] Katsuragi Ace",
 		"full_name_jp": "[雅号・墨龍]カツラギエース",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "E",
+				"mile": "B",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "A",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 5,
 			"stamina": 0,
@@ -10950,6 +15018,24 @@
 		"full_name_jp": "[Universe-Naut]ネオユニヴァース",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "B",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -10994,10 +15080,28 @@
 		"chara_name_jp": "ネオユニヴァース",
 		"title_en": null,
 		"title_jp": "[Like “ZEER”]",
-		"full_name_en": null,
+		"full_name_en": "[Like “ZEER”] Neo Universe",
 		"full_name_jp": "[Like “ZEER”]ネオユニヴァース",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "B",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -11046,6 +15150,24 @@
 		"full_name_jp": "[みらくるめーくあっぷ！]ヒシミラクル",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 7,
 			"stamina": 8,
@@ -11090,10 +15212,28 @@
 		"chara_name_jp": "ヒシミラクル",
 		"title_en": null,
 		"title_jp": "[ハッピー・リトル・ノーツ]",
-		"full_name_en": null,
+		"full_name_en": "[ハッピー・リトル・ノーツ] Hishi Miracle",
 		"full_name_jp": "[ハッピー・リトル・ノーツ]ヒシミラクル",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 14,
@@ -11138,10 +15278,28 @@
 		"chara_name_jp": "タップダンスシチー",
 		"title_en": null,
 		"title_jp": "[GLITTER!]",
-		"full_name_en": null,
+		"full_name_en": "[GLITTER!] Tap Dance City",
 		"full_name_jp": "[GLITTER!]タップダンスシチー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -11186,10 +15344,28 @@
 		"chara_name_jp": "タップダンスシチー",
 		"title_en": null,
 		"title_jp": "[Tap! Tap! Tap!]",
-		"full_name_en": null,
+		"full_name_en": "[Tap! Tap! Tap!] Tap Dance City",
 		"full_name_jp": "[Tap! Tap! Tap!]タップダンスシチー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -11234,10 +15410,28 @@
 		"chara_name_jp": "ドゥラメンテ",
 		"title_en": null,
 		"title_jp": "[Red in Black]",
-		"full_name_en": null,
+		"full_name_en": "[Red in Black] Duramente",
 		"full_name_jp": "[Red in Black]ドゥラメンテ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -11282,10 +15476,28 @@
 		"chara_name_jp": "ドゥラメンテ",
 		"title_en": null,
 		"title_jp": "[Claret Nosferatu]",
-		"full_name_en": null,
+		"full_name_en": "[Claret Nosferatu] Duramente",
 		"full_name_jp": "[Claret Nosferatu]ドゥラメンテ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "C",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 8,
 			"stamina": 0,
@@ -11330,10 +15542,28 @@
 		"chara_name_jp": "ラインクラフト",
 		"title_en": null,
 		"title_jp": "[Dream Successor]",
-		"full_name_en": null,
+		"full_name_en": "[Dream Successor] Rhein Kraft",
 		"full_name_jp": "[Dream Successor]ラインクラフト",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "B",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -11378,10 +15608,28 @@
 		"chara_name_jp": "ラインクラフト",
 		"title_en": null,
 		"title_jp": "[Eternal Fairytale]",
-		"full_name_en": null,
+		"full_name_en": "[Eternal Fairytale] Rhein Kraft",
 		"full_name_jp": "[Eternal Fairytale]ラインクラフト",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "C",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 5,
 			"stamina": 0,
@@ -11426,10 +15674,28 @@
 		"chara_name_jp": "シーザリオ",
 		"title_en": null,
 		"title_jp": "[Future Weaver]",
-		"full_name_en": null,
+		"full_name_en": "[Future Weaver] Cesario",
 		"full_name_jp": "[Future Weaver]シーザリオ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -11474,10 +15740,28 @@
 		"chara_name_jp": "シーザリオ",
 		"title_en": null,
 		"title_jp": "[Twinbell Queen]",
-		"full_name_en": null,
+		"full_name_en": "[Twinbell Queen] Cesario",
 		"full_name_jp": "[Twinbell Queen]シーザリオ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -11522,10 +15806,28 @@
 		"chara_name_jp": "エアメサイア",
 		"title_en": null,
 		"title_jp": "[Inherited Hope]",
-		"full_name_en": null,
+		"full_name_en": "[Inherited Hope] Air Messiah",
 		"full_name_jp": "[Inherited Hope]エアメサイア",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "C",
+				"mile": "B",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -11570,10 +15872,28 @@
 		"chara_name_jp": "デアリングハート",
 		"title_en": null,
 		"title_jp": "[Daring Darling!]",
-		"full_name_en": null,
+		"full_name_en": "[Daring Darling!] Daring Heart",
 		"full_name_jp": "[Daring Darling!]デアリングハート",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "B",
+				"mile": "A",
+				"medium": "E",
+				"long": "G"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "F",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -11618,10 +15938,28 @@
 		"chara_name_jp": "フサイチパンドラ",
 		"title_en": null,
 		"title_jp": "[Assorted Cuteness♡]",
-		"full_name_en": null,
+		"full_name_en": "[Assorted Cuteness♡] Fusaichi Pandora",
 		"full_name_jp": "[Assorted Cuteness♡]フサイチパンドラ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "B",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -11666,10 +16004,28 @@
 		"chara_name_jp": "フサイチパンドラ",
 		"title_en": null,
 		"title_jp": "[Snatchin' Hearts ♡]",
-		"full_name_en": null,
+		"full_name_en": "[Snatchin' Hearts ♡] Fusaichi Pandora",
 		"full_name_jp": "[Snatchin' Hearts ♡]フサイチパンドラ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "E"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "B",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -11714,10 +16070,28 @@
 		"chara_name_jp": "ブエナビスタ",
 		"title_en": null,
 		"title_jp": "[Heroína Inocente]",
-		"full_name_en": null,
+		"full_name_en": "[Heroína Inocente] Buena Vista",
 		"full_name_jp": "[Heroína Inocente]ブエナビスタ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -11762,10 +16136,28 @@
 		"chara_name_jp": "オルフェーヴル",
 		"title_en": null,
 		"title_jp": "[総攬]",
-		"full_name_en": null,
+		"full_name_en": "[総攬] Orfevre",
 		"full_name_jp": "[総攬]オルフェーヴル",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "D"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "F",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -11810,10 +16202,28 @@
 		"chara_name_jp": "ジェンティルドンナ",
 		"title_en": null,
 		"title_jp": "[Regina dei fiori]",
-		"full_name_en": null,
+		"full_name_en": "[Regina dei fiori] Gentildonna",
 		"full_name_jp": "[Regina dei fiori]ジェンティルドンナ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -11858,10 +16268,28 @@
 		"chara_name_jp": "ジェンティルドンナ",
 		"title_en": null,
 		"title_jp": "[La dama perfetta]",
-		"full_name_en": null,
+		"full_name_en": "[La dama perfetta] Gentildonna",
 		"full_name_jp": "[La dama perfetta]ジェンティルドンナ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -11906,10 +16334,28 @@
 		"chara_name_jp": "ウインバリアシオン",
 		"title_en": null,
 		"title_jp": "[ドラマティック・チュチュ]",
-		"full_name_en": null,
+		"full_name_en": "[ドラマティック・チュチュ] Win Variation",
 		"full_name_jp": "[ドラマティック・チュチュ]ウインバリアシオン",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "E",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -11954,10 +16400,28 @@
 		"chara_name_jp": "アドマイヤグルーヴ",
 		"title_en": null,
 		"title_jp": "[Glacial Queen]",
-		"full_name_en": null,
+		"full_name_en": "[Glacial Queen] Admire Groove",
 		"full_name_jp": "[Glacial Queen]アドマイヤグルーヴ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -12002,10 +16466,28 @@
 		"chara_name_jp": "ドリームジャーニー",
 		"title_en": null,
 		"title_jp": "[夢路のよすが]",
-		"full_name_en": null,
+		"full_name_en": "[夢路のよすが] Dream Journey",
 		"full_name_jp": "[夢路のよすが]ドリームジャーニー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "G",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -12050,10 +16532,28 @@
 		"chara_name_jp": "ドリームジャーニー",
 		"title_en": null,
 		"title_jp": "[雪白の夢路]",
-		"full_name_en": null,
+		"full_name_en": "[雪白の夢路] Dream Journey",
 		"full_name_jp": "[雪白の夢路]ドリームジャーニー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "F",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "G",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 10,
@@ -12098,10 +16598,28 @@
 		"chara_name_jp": "カルストンライトオ",
 		"title_en": null,
 		"title_jp": "[真実一路]",
-		"full_name_en": null,
+		"full_name_en": "[真実一路] Calstone Light O",
 		"full_name_jp": "[真実一路]カルストンライトオ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "D",
+				"medium": "G",
+				"long": "G"
+			},
+			"style": {
+				"front": "A",
+				"pace": "C",
+				"late": "G",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 15,
 			"stamina": 0,
@@ -12146,10 +16664,28 @@
 		"chara_name_jp": "デュランダル",
 		"title_en": null,
 		"title_jp": "[Chevalier fidèle]",
-		"full_name_en": null,
+		"full_name_en": "[Chevalier fidèle] Durandal",
 		"full_name_jp": "[Chevalier fidèle]デュランダル",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "F",
+				"long": "G"
+			},
+			"style": {
+				"front": "G",
+				"pace": "G",
+				"late": "C",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -12194,10 +16730,28 @@
 		"chara_name_jp": "バブルガムフェロー",
 		"title_en": null,
 		"title_jp": "[POPPING!]",
-		"full_name_en": null,
+		"full_name_en": "[POPPING!] Bubble Gum Fellow",
 		"full_name_jp": "[POPPING!]バブルガムフェロー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 20,
 			"stamina": 0,
@@ -12242,10 +16796,28 @@
 		"chara_name_jp": "バブルガムフェロー",
 		"title_en": null,
 		"title_jp": "[暁光]",
-		"full_name_en": null,
+		"full_name_en": "[暁光] Bubble Gum Fellow",
 		"full_name_jp": "[暁光]バブルガムフェロー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "G"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -12290,10 +16862,28 @@
 		"chara_name_jp": "フェノーメノ",
 		"title_en": null,
 		"title_jp": "[義心の黒焔]",
-		"full_name_en": null,
+		"full_name_en": "[義心の黒焔] Fenomeno",
 		"full_name_jp": "[義心の黒焔]フェノーメノ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -12338,10 +16928,28 @@
 		"chara_name_jp": "フェノーメノ",
 		"title_en": null,
 		"title_jp": "[剛毅なる紫焔]",
-		"full_name_en": null,
+		"full_name_en": "[剛毅なる紫焔] Fenomeno",
 		"full_name_jp": "[剛毅なる紫焔]フェノーメノ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "C",
+				"pace": "A",
+				"late": "E",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -12386,10 +16994,28 @@
 		"chara_name_jp": "アーモンドアイ",
 		"title_en": null,
 		"title_jp": "[The Changer]",
-		"full_name_en": null,
+		"full_name_en": "[The Changer] Almond Eye",
 		"full_name_jp": "[The Changer]アーモンドアイ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "D"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -12434,10 +17060,28 @@
 		"chara_name_jp": "ラッキーライラック",
 		"title_en": null,
 		"title_jp": "[万折不撓の纏]",
-		"full_name_en": null,
+		"full_name_en": "[万折不撓の纏] Lucky Lilac",
 		"full_name_jp": "[万折不撓の纏]ラッキーライラック",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -12482,10 +17126,28 @@
 		"chara_name_jp": "グランアレグリア",
 		"title_en": null,
 		"title_jp": "[すまいる・まい・うぇい！]",
-		"full_name_en": null,
+		"full_name_en": "[すまいる・まい・うぇい！] Gran Alegria",
 		"full_name_jp": "[すまいる・まい・うぇい！]グランアレグリア",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "A",
+				"mile": "A",
+				"medium": "C",
+				"long": "G"
+			},
+			"style": {
+				"front": "F",
+				"pace": "A",
+				"late": "A",
+				"end": "B"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -12530,10 +17192,28 @@
 		"chara_name_jp": "ラヴズオンリーユー",
 		"title_en": null,
 		"title_jp": "[9927 Wishes]",
-		"full_name_en": null,
+		"full_name_en": "[9927 Wishes] Loves Only You",
 		"full_name_jp": "[9927 Wishes]ラヴズオンリーユー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -12578,10 +17258,28 @@
 		"chara_name_jp": "ラヴズオンリーユー",
 		"title_en": null,
 		"title_jp": "[Love-Linked Aster]",
-		"full_name_en": null,
+		"full_name_en": "[Love-Linked Aster] Loves Only You",
 		"full_name_jp": "[Love-Linked Aster]ラヴズオンリーユー",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -12626,10 +17324,28 @@
 		"chara_name_jp": "クロノジェネシス",
 		"title_en": null,
 		"title_jp": "[陸離の編纂者]",
-		"full_name_en": null,
+		"full_name_en": "[陸離の編纂者] Chrono Genesis",
 		"full_name_jp": "[陸離の編纂者]クロノジェネシス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "C",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 10,
@@ -12674,10 +17390,28 @@
 		"chara_name_jp": "カレンブーケドール",
 		"title_en": null,
 		"title_jp": "[花宿しのクチュール]",
-		"full_name_en": null,
+		"full_name_en": "[花宿しのクチュール] Curren Bouquetd'or",
 		"full_name_jp": "[花宿しのクチュール]カレンブーケドール",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "E",
+				"pace": "A",
+				"late": "B",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -12722,10 +17456,28 @@
 		"chara_name_jp": "ステイゴールド",
 		"title_en": null,
 		"title_jp": "[Sunlit Outsider]",
-		"full_name_en": null,
+		"full_name_en": "[Sunlit Outsider] Stay Gold",
 		"full_name_jp": "[Sunlit Outsider]ステイゴールド",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "G",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -12770,10 +17522,28 @@
 		"chara_name_jp": "レッドディザイア",
 		"title_en": null,
 		"title_jp": "[Divine Raiment]",
-		"full_name_en": null,
+		"full_name_en": "[Divine Raiment] Red Desire",
 		"full_name_jp": "[Divine Raiment]レッドディザイア",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "B"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "B",
+				"late": "A",
+				"end": "F"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -12818,10 +17588,28 @@
 		"chara_name_jp": "キセキ",
 		"title_en": null,
 		"title_jp": "[Miracle Author]",
-		"full_name_en": null,
+		"full_name_en": "[Miracle Author] Kiseki",
 		"full_name_jp": "[Miracle Author]キセキ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "C",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "A",
+				"pace": "B",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 10,
 			"stamina": 0,
@@ -12866,10 +17654,28 @@
 		"chara_name_jp": "エピファネイア",
 		"title_en": null,
 		"title_jp": "[Fate's Chosen Star]",
-		"full_name_en": null,
+		"full_name_en": "[Fate's Chosen Star] Epiphaneia",
 		"full_name_jp": "[Fate's Chosen Star]エピファネイア",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "E",
+				"medium": "A",
+				"long": "A"
+			},
+			"style": {
+				"front": "D",
+				"pace": "A",
+				"late": "B",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -12914,10 +17720,28 @@
 		"chara_name_jp": "ヴィクトワールピサ",
 		"title_en": null,
 		"title_jp": "[Lueur Angélique]",
-		"full_name_en": null,
+		"full_name_en": "[Lueur Angélique] Victoire Pisa",
 		"full_name_jp": "[Lueur Angélique]ヴィクトワールピサ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "A"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "E"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -12962,10 +17786,28 @@
 		"chara_name_jp": "ローズキングダム",
 		"title_en": null,
 		"title_jp": "[Éclat de Roseraie]",
-		"full_name_en": null,
+		"full_name_en": "[Éclat de Roseraie] Rose Kingdom",
 		"full_name_jp": "[Éclat de Roseraie]ローズキングダム",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "A",
+				"medium": "A",
+				"long": "C"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "B",
+				"end": "G"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 0,
@@ -13010,10 +17852,28 @@
 		"chara_name_jp": "ルーラーシップ",
 		"title_en": null,
 		"title_jp": "[Monochrome GM]",
-		"full_name_en": null,
+		"full_name_en": "[Monochrome GM] Rulership",
 		"full_name_jp": "[Monochrome GM]ルーラーシップ",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "G"
+			},
+			"distance": {
+				"sprint": "G",
+				"mile": "B",
+				"medium": "A",
+				"long": "B"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "A"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
@@ -13058,10 +17918,28 @@
 		"chara_name_jp": "ファレノプシス",
 		"title_en": null,
 		"title_jp": "[絶佳の暁闇]",
-		"full_name_en": null,
+		"full_name_en": "[絶佳の暁闇] Phalaenopsis",
 		"full_name_jp": "[絶佳の暁闇]ファレノプシス",
 		"released_gl": false,
 		"default_rarity": 3,
+		"aptitudes": {
+			"surface": {
+				"turf": "A",
+				"dirt": "F"
+			},
+			"distance": {
+				"sprint": "D",
+				"mile": "A",
+				"medium": "A",
+				"long": "F"
+			},
+			"style": {
+				"front": "G",
+				"pace": "A",
+				"late": "A",
+				"end": "C"
+			}
+		},
 		"stat_bonuses": {
 			"speed": 0,
 			"stamina": 10,
